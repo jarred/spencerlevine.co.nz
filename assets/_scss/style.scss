@@ -1,0 +1,9 @@
+$sans: 'Helvetica Neue', Sans-Serif;
+
+html{
+	font-family: 'Helvetica Neue';
+	background-color: #FFF;
+}
+
+@import 'reset/_normalize';
+@import 'ui-specific/_pyramid';
