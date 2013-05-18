@@ -1,8 +1,8 @@
 define ['backbone', 'underscore', 'two'], (Backbone, _, Two) ->
 	PyramidView = Backbone.View.extend
 
-		width: 65
-		height: 55
+		width: 120
+		height: 95
 		
 		initialize: ->
 			_.bindAll @
@@ -22,17 +22,17 @@ define ['backbone', 'underscore', 'two'], (Backbone, _, Two) ->
 			pyramid.noStroke()
 
 			# eye bg
-			eye_bg = @two.makeCircle @width/2, 20, 7
+			eye_bg = @two.makeCircle 60, 58, 22
 			eye_bg.fill = '#FFF'
 			eye_bg.noStroke()
 
 			# pupil
-			pupil = @two.makeCircle @width / 2, 20, 4
+			pupil = @two.makeCircle 66, 65, 9
 			pupil.fill = '#000'
 			pupil.noStroke()
 
 			# gloss
-			gloss = @two.makeCircle (@width / 2) + 2, 17, 3
+			gloss = @two.makeCircle 60, 52, 13
 			gloss.fill = '#FFF'
 			gloss.opacity = 0.4
 			gloss.noStroke()

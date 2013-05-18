@@ -410,11 +410,114 @@ table {
   border-spacing: 0;
 }
 
-/* line 1, ../_scss/ui-specific/_pyramid.scss */
-#pyramid {
-  width: 65px;
-  height: 55px;
-  position: absolute;
-  left: 30px;
+/* line 1, ../_scss/ui-specific/_nav.scss */
+#nav {
+  height: 95px;
+  position: fixed;
   top: 30px;
+  left: 30px;
+}
+/* line 6, ../_scss/ui-specific/_nav.scss */
+#nav h1.logo {
+  position: absolute;
+  top: 45px;
+  left: 170px;
+  margin: 0px;
+  padding: 0px;
+  font: 600 30px/27px 'Didot', times;
+}
+/* line 13, ../_scss/ui-specific/_nav.scss */
+#nav h1.logo a {
+  text-decoration: none;
+  color: #111111;
+}
+@media screen and (max-width: 768px) {
+  /* line 1, ../_scss/ui-specific/_nav.scss */
+  #nav {
+    position: absolute;
+  }
+}
+
+/* line 23, ../_scss/ui-specific/_nav.scss */
+#pyramid {
+  display: block;
+  width: 120px;
+  height: 95px;
+}
+
+/* line 1, ../_scss/ui-specific/_project.scss */
+#project {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 155px;
+}
+/* line 5, ../_scss/ui-specific/_project.scss */
+#project td {
+  vertical-align: top;
+  text-align: left;
+}
+/* line 10, ../_scss/ui-specific/_project.scss */
+#project td.description .content {
+  width: 220px;
+  margin: 20px;
+}
+/* line 13, ../_scss/ui-specific/_project.scss */
+#project td.description .content h1, #project td.description .content h2 {
+  font: 600 13px/20px "Helvetica Neue", Sans-Serif;
+}
+/* line 16, ../_scss/ui-specific/_project.scss */
+#project td.description .content p {
+  font: 400 13px/20px "Helvetica Neue", Sans-Serif;
+}
+@media screen and (max-width: 768px) {
+  /* line 1, ../_scss/ui-specific/_project.scss */
+  #project {
+    margin-left: 30px;
+  }
+  /* line 23, ../_scss/ui-specific/_project.scss */
+  #project tr, #project td {
+    display: block;
+  }
+  /* line 26, ../_scss/ui-specific/_project.scss */
+  #project td.description {
+    margin-right: 30px;
+    margin-bottom: 30px;
+  }
+  /* line 29, ../_scss/ui-specific/_project.scss */
+  #project td.description .content {
+    width: auto;
+    margin: 0px;
+  }
+  /* line 34, ../_scss/ui-specific/_project.scss */
+  #project .image {
+    margin-right: 30px;
+    margin-bottom: 30px;
+  }
+  /* line 38, ../_scss/ui-specific/_project.scss */
+  #project img {
+    width: 100%;
+  }
+}
+
+/* line 1, ../_scss/ui-specific/_projects.scss */
+#projects {
+  margin-top: 155px;
+}
+/* line 3, ../_scss/ui-specific/_projects.scss */
+#projects .project {
+  display: block;
+  float: left;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+/* line 1, ../_scss/ui-specific/_preloader.scss */
+#preloader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: #111111;
+  z-index: 500;
 }

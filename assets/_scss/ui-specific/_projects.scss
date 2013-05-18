@@ -1,0 +1,9 @@
+#projects{
+	margin-top: 155px;
+	.project{
+		display: block;
+		float: left;
+		margin-left: $margin;
+		margin-bottom: $margin;
+	}
+}

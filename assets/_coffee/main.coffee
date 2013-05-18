@@ -24,6 +24,8 @@ require ['jquery', 'backbone', 'underscore', 'history', 'two'], () ->
 
 	views = [
 		'app/views/pyramid-view'
+		'app/views/project-view'
+		'app/views/preloader-view'
 	]
 
 	App = 

@@ -32,7 +32,7 @@
   require(['jquery', 'backbone', 'underscore', 'history', 'two'], function() {
     var App, views;
 
-    views = ['app/views/pyramid-view'];
+    views = ['app/views/pyramid-view', 'app/views/project-view', 'app/views/preloader-view'];
     App = {
       init: function() {
         this.appModel = new Backbone.Model();

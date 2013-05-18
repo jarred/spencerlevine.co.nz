@@ -1,0 +1,7 @@
+<div id="projects">
+	{% for post in site.posts %}
+	<a href="{{ post.url }}" class="project">
+		<img src="{{ post.thumb }}" />
+	</a>
+	{% endfor %}
+</div>

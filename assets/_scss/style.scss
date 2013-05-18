@@ -5,5 +5,11 @@ html{
 	background-color: #FFF;
 }
 
+$margin: 30px;
+$black: #111;
+
 @import 'reset/_normalize';
-@import 'ui-specific/_pyramid';
+@import 'ui-specific/_nav';
+@import 'ui-specific/_project';
+@import 'ui-specific/_projects';
+@import 'ui-specific/_preloader';

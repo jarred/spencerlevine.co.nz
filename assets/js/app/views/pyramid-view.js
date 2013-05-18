@@ -4,8 +4,8 @@
     var PyramidView;
 
     PyramidView = Backbone.View.extend({
-      width: 65,
-      height: 55,
+      width: 120,
+      height: 95,
       initialize: function() {
         _.bindAll(this);
         this.$el = $(this.el);
@@ -22,13 +22,13 @@
         pyramid = this.two.makePolygon(this.width / 2, 0, this.width, this.height, 0, this.height, false);
         pyramid.fill = 'rgb(247, 237, 16)';
         pyramid.noStroke();
-        eye_bg = this.two.makeCircle(this.width / 2, 20, 7);
+        eye_bg = this.two.makeCircle(60, 58, 22);
         eye_bg.fill = '#FFF';
         eye_bg.noStroke();
-        pupil = this.two.makeCircle(this.width / 2, 20, 4);
+        pupil = this.two.makeCircle(66, 65, 9);
         pupil.fill = '#000';
         pupil.noStroke();
-        gloss = this.two.makeCircle((this.width / 2) + 2, 17, 3);
+        gloss = this.two.makeCircle(60, 52, 13);
         gloss.fill = '#FFF';
         gloss.opacity = 0.4;
         gloss.noStroke();
