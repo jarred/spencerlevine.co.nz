@@ -18,6 +18,18 @@
 	@media screen and (max-width: 768px) {
 		position: absolute;
 	}
+
+	p{
+		margin-left: 170px;
+		margin-top: 40px;
+		a{
+			color: #CCC;
+			text-decoration: none;
+			&:hover{
+				text-decoration: underline;
+			}
+		}
+	}
 }
 
 #pyramid{

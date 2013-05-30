@@ -1,5 +1,6 @@
 require.config
 	baseUrl: '/assets/js/libs'
+	waitSeconds: 10
 	paths:
 		app: '../app'
 		jquery: 'jquery-1.9.1'

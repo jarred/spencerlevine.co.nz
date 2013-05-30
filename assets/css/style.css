@@ -437,8 +437,22 @@ table {
     position: absolute;
   }
 }
+/* line 22, ../_scss/ui-specific/_nav.scss */
+#nav p {
+  margin-left: 170px;
+  margin-top: 40px;
+}
+/* line 25, ../_scss/ui-specific/_nav.scss */
+#nav p a {
+  color: #CCC;
+  text-decoration: none;
+}
+/* line 28, ../_scss/ui-specific/_nav.scss */
+#nav p a:hover {
+  text-decoration: underline;
+}
 
-/* line 23, ../_scss/ui-specific/_nav.scss */
+/* line 35, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -514,6 +528,7 @@ table {
 
 /* line 1, ../_scss/ui-specific/_preloader.scss */
 #preloader {
+  display: none;
   position: fixed;
   left: 0px;
   top: 0px;

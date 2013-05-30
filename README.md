@@ -4,4 +4,4 @@
 
 Coffee compile command.
 
-```coffee --compile --watch --output assets/js/app assets/_coffee```
+coffee --compile --watch --output assets/js/app assets/_coffee
