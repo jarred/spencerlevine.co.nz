@@ -1,7 +1,9 @@
 <div id="projects">
 	{% for post in site.posts %}
 	<a href="{{ post.url }}" class="project">
-		<img src="{{ post.thumb }}" />
+		{% if post.thumb %}
+			<img src="{{ post.thumb }}" />
+		{% endif %}
 	</a>
 	{% endfor %}
 </div>

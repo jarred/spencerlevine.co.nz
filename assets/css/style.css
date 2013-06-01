@@ -528,7 +528,6 @@ table {
 
 /* line 1, ../_scss/ui-specific/_preloader.scss */
 #preloader {
-  display: none;
   position: fixed;
   left: 0px;
   top: 0px;
