@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Family Songbook
-thumb: /images/Three-Days-in-a-Wishing-Well/wish-well-0.jpg)
+thumb: /images/Three-Days-in-a-Wishing-Well/wish-well-0.jpg
 categories: [book]
 ---
 

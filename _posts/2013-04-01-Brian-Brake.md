@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Brian Brake
-thumb: /images/Brian-Brake/brake-0.jpg)
+thumb: /images/Brian-Brake/brake-0.jpg
 categories: [book]
 ---
 

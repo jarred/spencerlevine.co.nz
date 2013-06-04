@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Tangata O Le Moana
-thumb: /images/Tangata-O-Le-Moana/TOLM-spread-0.jpg)
+thumb: /images/Tangata-O-Le-Moana/TOLM-spread-0.jpg
 categories: [book]
 ---
 

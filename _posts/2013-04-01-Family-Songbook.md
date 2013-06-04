@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Family Songbook
-thumb: /images/Family-Songbook/oceania-0.jpg)
+thumb: /images/Family-Songbook/fam-song-0.jpg
 categories: [book]
 ---
 
@@ -16,6 +16,6 @@ Iain Sharp
 
 CMYK
 
-![](/images/images/Family-Songbook/fam-song-1.jpg)
-![](/images/images/Family-Songbook/fam-song-2.jpg)
+![](/images/Family-Songbook/fam-song-1.jpg)
+![](/images/Family-Songbook/fam-song-2.jpg)
 
