@@ -14,10 +14,10 @@ The House that Jack Built is a Gecko Press revival of an award-winning, modern N
 
 CMYK Cover. 36 pp.
 
-![](//images/The-House-That-Jack-Built/gecko-jack-1.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-2.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-3.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-4.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-5.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-6.jpg)
-![](//images/The-House-That-Jack-Built/gecko-jack-7.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-1.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-2.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-3.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-4.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-5.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-6.jpg)
+![](/images/The-House-That-Jack-Built/gecko-jack-7.jpg)

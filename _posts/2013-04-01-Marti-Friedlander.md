@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Marti Friedlander
-thumb:thumb: /images/Marti-Friedlander/AUP-MARTI-FRIEDLANDER-0.jpg
+thumb: /images/Marti-Friedlander/AUP-MARTI-FRIEDLANDER-0.jpg
 categories: [Book]
 ---
 

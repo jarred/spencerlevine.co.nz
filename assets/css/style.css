@@ -1,7 +1,9 @@
-/* line 3, ../_scss/style.scss */
-html {
+/* line 4, ../_scss/style.scss */
+html,
+body {
   font-family: 'Helvetica Neue';
   background-color: #FFF;
+  overflow-x: hidden;
 }
 
 /* normalize.css v2.1.2 | MIT License | git.io/normalize */
@@ -413,11 +415,10 @@ table {
 /* line 1, ../_scss/ui-specific/_nav.scss */
 #nav {
   height: 95px;
-  position: fixed;
-  top: 30px;
-  left: 30px;
+  position: relative;
+  margin: 20px;
 }
-/* line 6, ../_scss/ui-specific/_nav.scss */
+/* line 5, ../_scss/ui-specific/_nav.scss */
 #nav h1.logo {
   position: absolute;
   top: 45px;
@@ -426,7 +427,7 @@ table {
   padding: 0px;
   font: 600 30px/27px 'Didot', times;
 }
-/* line 13, ../_scss/ui-specific/_nav.scss */
+/* line 12, ../_scss/ui-specific/_nav.scss */
 #nav h1.logo a {
   text-decoration: none;
   color: #111111;
@@ -437,22 +438,22 @@ table {
     position: absolute;
   }
 }
-/* line 22, ../_scss/ui-specific/_nav.scss */
+/* line 21, ../_scss/ui-specific/_nav.scss */
 #nav p {
   margin-left: 170px;
   margin-top: 40px;
 }
-/* line 25, ../_scss/ui-specific/_nav.scss */
+/* line 24, ../_scss/ui-specific/_nav.scss */
 #nav p a {
   color: #CCC;
   text-decoration: none;
 }
-/* line 28, ../_scss/ui-specific/_nav.scss */
+/* line 27, ../_scss/ui-specific/_nav.scss */
 #nav p a:hover {
   text-decoration: underline;
 }
 
-/* line 35, ../_scss/ui-specific/_nav.scss */
+/* line 34, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -461,53 +462,56 @@ table {
 
 /* line 1, ../_scss/ui-specific/_project.scss */
 #project {
-  margin-left: 20px;
+  padding: 0px 20px;
   margin-bottom: 20px;
-  margin-top: 155px;
+  width: 100%;
+  overflow: scroll;
 }
-/* line 5, ../_scss/ui-specific/_project.scss */
+/* line 6, ../_scss/ui-specific/_project.scss */
 #project td {
   vertical-align: top;
   text-align: left;
 }
-/* line 10, ../_scss/ui-specific/_project.scss */
+/* line 11, ../_scss/ui-specific/_project.scss */
 #project td.description .content {
   width: 220px;
   margin: 20px;
 }
-/* line 13, ../_scss/ui-specific/_project.scss */
+/* line 14, ../_scss/ui-specific/_project.scss */
 #project td.description .content h1, #project td.description .content h2 {
   font: 600 13px/20px "Helvetica Neue", Sans-Serif;
 }
-/* line 16, ../_scss/ui-specific/_project.scss */
+/* line 17, ../_scss/ui-specific/_project.scss */
 #project td.description .content p {
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
 }
 @media screen and (max-width: 768px) {
   /* line 1, ../_scss/ui-specific/_project.scss */
   #project {
-    margin-left: 30px;
+    padding: 0px;
+    margin: 0px;
   }
-  /* line 23, ../_scss/ui-specific/_project.scss */
+  /* line 25, ../_scss/ui-specific/_project.scss */
   #project tr, #project td {
     display: block;
-  }
-  /* line 26, ../_scss/ui-specific/_project.scss */
-  #project td.description {
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin: 0px 20px;
   }
   /* line 29, ../_scss/ui-specific/_project.scss */
+  #project td.description {
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  /* line 32, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
     width: auto;
     margin: 0px;
   }
-  /* line 34, ../_scss/ui-specific/_project.scss */
+  /* line 37, ../_scss/ui-specific/_project.scss */
   #project .image {
-    margin-right: 30px;
-    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
   }
-  /* line 38, ../_scss/ui-specific/_project.scss */
+  /* line 41, ../_scss/ui-specific/_project.scss */
   #project img {
     width: 100%;
   }
@@ -515,15 +519,21 @@ table {
 
 /* line 1, ../_scss/ui-specific/_projects.scss */
 #projects {
-  margin-top: 155px;
+  margin-right: 60px;
+  margin-left: 20px;
 }
-/* line 3, ../_scss/ui-specific/_projects.scss */
+/* line 4, ../_scss/ui-specific/_projects.scss */
 #projects .project {
   display: block;
   float: left;
-  margin-left: 30px;
-  margin-bottom: 30px;
+  margin-right: 1px;
+  margin-bottom: 1px;
   max-width: 100%;
+  height: 228px;
+}
+/* line 11, ../_scss/ui-specific/_projects.scss */
+#projects .project img {
+  height: 228px;
 }
 
 /* line 1, ../_scss/ui-specific/_preloader.scss */

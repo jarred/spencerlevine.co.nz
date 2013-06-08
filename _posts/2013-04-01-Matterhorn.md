@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Matterhornr
-thumb:thumb: /images/Matterhorn/matterhorn-0.jpg
+thumb: /images/Matterhorn/matterhorn-0.jpg
 categories: [Music]
 ---
 

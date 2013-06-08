@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Kermadec: Expeditions and Connections
+title: Kermadec Expeditions and Connections
 thumb: /images/Kermadec-Exhibition/nat-lib-set-0.jpg
 categories: [exhibition]
 ---
@@ -15,11 +15,11 @@ Expeditions and Connections is an exhibition at the National Library of New Zeal
 
 lambda outputs, vinyl, audio-visual and artworks
 
-![](//images/Kermadec-Exhibition/nat-lib-set-1.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-2.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-3.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-4.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-5.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-6.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-7.jpg)
-![](//images/Kermadec-Exhibition/nat-lib-set-8.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-1.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-2.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-3.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-4.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-5.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-6.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-7.jpg)
+![](/images/Kermadec-Exhibition/nat-lib-set-8.jpg)

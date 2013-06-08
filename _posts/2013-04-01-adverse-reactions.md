@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Adverse Reactions
-thumb:thumb: /images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-0.jpg
+thumb: /images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-0.jpg
 categories: [book]
 ---
 

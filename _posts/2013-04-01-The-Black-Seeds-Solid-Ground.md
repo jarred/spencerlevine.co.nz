@@ -11,6 +11,6 @@ categories: [music]
 CMYK w/ gatefold
 
 
-![](images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-1.jpg)
-![](images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-2.jpg)
-![](images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-3.jpg)
+![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-1.jpg)
+![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-2.jpg)
+![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-3.jpg)

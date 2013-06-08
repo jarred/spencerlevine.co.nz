@@ -16,6 +16,6 @@ Iain Sharp
 
 CMYK
 
-![](/images/images/Three-Days-in-a-Wishing-Well/wish-well-1.jpg)
-![](/images/images/Three-Days-in-a-Wishing-Well/wish-well-2.jpg)
+![](/images/Three-Days-in-a-Wishing-Well/wish-well-1.jpg)
+![](/images/Three-Days-in-a-Wishing-Well/wish-well-2.jpg)
 

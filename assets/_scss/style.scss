@@ -1,11 +1,13 @@
 $sans: 'Helvetica Neue', Sans-Serif;
 
-html{
+html,
+body{
 	font-family: 'Helvetica Neue';
 	background-color: #FFF;
+	overflow-x: hidden;
 }
 
-$margin: 30px;
+$margin: 20px;
 $black: #111;
 
 @import 'reset/_normalize';

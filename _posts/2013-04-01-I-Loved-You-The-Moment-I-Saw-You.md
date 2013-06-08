@@ -1,7 +1,7 @@
 ---
 layout: project
 title: I Loved You The Moment I Saw You
-thumb:thumb: /images/I-Loved-You-The-Moment-I-Saw-You/VUP-ILYTMISU-0.jpg
+thumb: /images/I-Loved-You-The-Moment-I-Saw-You/VUP-ILYTMISU-0.jpg
 categories: [book]
 ---
 

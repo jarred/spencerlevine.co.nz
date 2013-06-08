@@ -1,8 +1,7 @@
 #nav{
 	height: 95px;
-	position: fixed;
-	top: $margin;
-	left: $margin;
+	position: relative;
+	margin: $margin;
 	h1.logo{
 		position: absolute;
 		top: 45px;

@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Crown Lynn: Crockery of Distinction 
-thumb:thumb: /images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-0.jpg
+title: Crown Lynn. Crockery of Distinction 
+thumb: /images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-0.jpg
 categories: [book]
 ---
 
@@ -16,12 +16,12 @@ From select examples of Crown Lynn’s mass produced lines, through to the self-
 
 CMYK throughout. 32 pages w/ gatefold. 
 
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-1.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-2.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-3.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-4.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-5.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-6.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-7.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-8.jpg)
-![](images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-9.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-1.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-2.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-3.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-4.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-5.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-6.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-7.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-8.jpg)
+![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-9.jpg)

@@ -10,6 +10,6 @@ categories: [music]
 
 2 spot colour w/ gatefold
 
-![](images/Whirimako-Black/CD-Whirimako-Black-1.jpg)
-![](images/Whirimako-Black/CD-Whirimako-Black-2.jpg)
-![](images/Whirimako-Black/CD-Whirimako-Black-3.jpg)
+![](/images/Whirimako-Black/CD-Whirimako-Black-1.jpg)
+![](/images/Whirimako-Black/CD-Whirimako-Black-2.jpg)
+![](/images/Whirimako-Black/CD-Whirimako-Black-3.jpg)

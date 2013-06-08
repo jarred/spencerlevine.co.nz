@@ -1,7 +1,7 @@
 ---
 layout: project
 title: In Another Life 
-thumb:thumb: /images/In-Another-Life/piccinni-0.jpg
+thumb: /images/In-Another-Life/piccinni-0.jpg
 categories: [book]
 ---
 

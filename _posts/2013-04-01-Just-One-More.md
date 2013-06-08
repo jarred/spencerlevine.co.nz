@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Just One More 
-thumb:thumb: /images/Just-One-More/Gecko-J1M-0.jpg
+thumb: /images/Just-One-More/Gecko-J1M-0.jpg
 categories: [book]
 ---
 

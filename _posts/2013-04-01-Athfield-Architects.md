@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Athfield Architects
-thumb:thumb: /images/Athfield-Architects/AUP-ath-0.jpg
+thumb: /images/Athfield-Architects/AUP-ath-0.jpg
 categories: [book]
 ---
 
