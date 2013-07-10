@@ -490,21 +490,35 @@ table {
 }
 /* line 18, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote {
-  margin-left: 0px;
+  margin: 0px;
+  cursor: default;
 }
-/* line 20, ../_scss/ui-specific/_project.scss */
+/* line 21, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote h1, #project td.description .content blockquote p {
   margin: 0px;
 }
-/* line 23, ../_scss/ui-specific/_project.scss */
+/* line 24, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote h1 {
+  text-transform: capitalize;
+  font-weight: 400;
+}
+/* line 28, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote p {
   display: none;
 }
-/* line 27, ../_scss/ui-specific/_project.scss */
+/* line 31, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote.awards {
+  color: #6DB7E9;
+}
+/* line 34, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote.specifications {
+  color: #D57962;
+}
+/* line 38, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover p {
   display: block;
 }
-/* line 30, ../_scss/ui-specific/_project.scss */
+/* line 41, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover h1 {
   display: none;
 }
@@ -514,27 +528,27 @@ table {
     padding: 0px;
     margin: 0px;
   }
-  /* line 40, ../_scss/ui-specific/_project.scss */
+  /* line 51, ../_scss/ui-specific/_project.scss */
   #project tr, #project td {
     display: block;
     margin: 0px 20px;
   }
-  /* line 44, ../_scss/ui-specific/_project.scss */
+  /* line 55, ../_scss/ui-specific/_project.scss */
   #project td.description {
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* line 47, ../_scss/ui-specific/_project.scss */
+  /* line 58, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
     width: auto;
     margin: 0px;
   }
-  /* line 52, ../_scss/ui-specific/_project.scss */
+  /* line 63, ../_scss/ui-specific/_project.scss */
   #project .image {
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* line 56, ../_scss/ui-specific/_project.scss */
+  /* line 67, ../_scss/ui-specific/_project.scss */
   #project img {
     width: 100%;
   }

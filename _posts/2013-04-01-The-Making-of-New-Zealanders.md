@@ -12,7 +12,9 @@ The Making of New Zealanders
 
 The Making of New Zealanders is an account of how transplanted Britons and others turned themselves into New Zealanders, a distinct group of people with their own songs and sports, symbols and opinions, political traditions and sense of self. 
 
-2 spot colour cover w/ metallic gold
+> # specifications
+> 2 spot colour cover w/ metallic gold
+{.specifications}
 
 ![](/images/The-Making-of-New-Zealanders/AUP-making-of-1.jpg)
 ![](/images/The-Making-of-New-Zealanders/AUP-making-of-2.jpg)

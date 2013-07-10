@@ -8,7 +8,9 @@ categories: [music]
 # Whirimako Black
 ##Tangihaku
 
-2 spot colour w/ gatefold
+> # specifications
+> 2 spot colour w/ gatefold
+{.specifications}
 
 ![](/images/Whirimako-Black/CD-Whirimako-Black-1.jpg)
 ![](/images/Whirimako-Black/CD-Whirimako-Black-2.jpg)

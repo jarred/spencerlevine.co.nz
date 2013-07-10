@@ -12,10 +12,14 @@ categories: [Book]
 
 New Zealand Fashion Design celebrates New Zealand's top 25 contemporary fashion designers.
 
-CMYK throughout. 568pp
+> # specifications
+> CMYK throughout. 568pp
+{.specifications}
 
-2011 BEST design awards 
-Editorial and Books
+> # awards
+> 2011 BEST design awards  
+> Editorial and Books
+{.awards}
 
 ![](/images/New-Zealand-Fashion-Design/NZFD-1.jpg)
 ![](/images/New-Zealand-Fashion-Design/NZFD-2.jpg)

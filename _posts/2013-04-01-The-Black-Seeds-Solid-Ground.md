@@ -8,8 +8,9 @@ categories: [music]
 # The Black Seeds
 ##Solid Ground
 
-CMYK w/ gatefold
-
+> # specifications
+> CMYK w/ gatefold
+{.specifications}
 
 ![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-1.jpg)
 ![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-2.jpg)

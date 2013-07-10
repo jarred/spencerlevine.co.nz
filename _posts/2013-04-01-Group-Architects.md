@@ -12,12 +12,15 @@ categories: [book]
 
 Group Architects – “the Group” for short – are New Zealand’s most mythologised firm of mid-twentieth century architects. This is the first full assessment of the firm and it follows their work from the early collective through all its various incarnations until 1968.
 
+> # Awards
+> 2011 PANZ Book awards  
+> Best Illustrated book  
+> Highly Commended
+{.awards}
 
-2011 PANZ Book awards 
-Best Illustrated book
-Highly Commended
-
-3 spot colour cover w/ UV overgloss
+> # Specifications
+> 3 spot colour cover w/ UV overgloss
+{.specifications}
 
 ![](/images/Group-Architects/AUP-Group-Architects-1.jpg)
 ![](/images/Group-Architects/AUP-Group-Architects-2.jpg)

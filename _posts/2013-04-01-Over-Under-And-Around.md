@@ -14,7 +14,9 @@ Second Occasional Journal
 
 Over Under And Around is the second in Enjoy Gallery’s series of ‘occasional journals’ that contribute in a timely way to current dialogue on contemporary art practice
 
-2 Colour throughout. 32 pages. 
+> # specifications
+> 2 Colour throughout. 32 pages.
+{.specifications}
 
 ![](/images/Over-Under-And-Around/enjoy-1.jpg)
 ![](/images/Over-Under-And-Around/enjoy-2.jpg)

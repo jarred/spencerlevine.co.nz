@@ -12,7 +12,9 @@ categories: [book]
 
 The complete life and work of Brian Brake, New Zealand's best-known photographer.
 
-CMYK throughout. 336pp.
+> # Specifications
+> CMYK throughout. 336pp.
+{.specifications}
 
 ![](/images/Brian-Brake/brake-1.jpg)
 ![](/images/Brian-Brake/brake-2.jpg)

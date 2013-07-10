@@ -12,8 +12,9 @@ categories: [exhibition]
 
 Expeditions and Connections is an exhibition at the National Library of New Zealand, it provides a contextual look at the Kermadecs, and looks at themes of history and environment. An extension of the Kermadec book, the exhibition has an educational focus, and is supported with collateral.
 
-
-lambda outputs, vinyl, audio-visual and artworks
+> # specifications
+> lambda outputs, vinyl, audio-visual and artworks
+{.specifications}
 
 ![](/images/Kermadec-Exhibition/nat-lib-set-1.jpg)
 ![](/images/Kermadec-Exhibition/nat-lib-set-2.jpg)

@@ -8,7 +8,9 @@ categories: [music]
 # Video Kid
 ## Prototype
 
-CMYK 
+> # specifications
+> CMYK 
+{.specifications}
 
 
 ![](/images/Whirimako-Black/CD-Whirimako-Black-1.jpg)

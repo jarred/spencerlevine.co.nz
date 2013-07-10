@@ -8,8 +8,9 @@ categories: [music]
 # Video Kid
 ## Prototype
 
-CMYK 
-
+> # specifications
+> CMYK 
+{.specifications}
 
 ![](/images/Video-Kid-Prototype/CD-Video-Kid-prototype-1.jpg)
 ![](/images/Video-Kid-Prototype/CD-Video-Kid-prototype-2.jpg)

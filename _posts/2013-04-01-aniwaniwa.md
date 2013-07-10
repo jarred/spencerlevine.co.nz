@@ -14,10 +14,14 @@ Exhibition notes for Aniwaniwa.
 
 Aniwaniwa is a collection of wakahuia with internal projections and sound components suspended from the ceiling;large carved sculptures holding memories of a place now submerged under water – a stirring tribute to Horahora village where Brett Graham’s father lived and his grandfather worked at the power station. 
 
-CMYK w/ UV overgloss
+> # Specifications
+> CMYK w/ UV overgloss
+{.specifications}
 
-Gold Medal
-Pride in Print awards 2009
+> # Awards  
+> Gold Medal  
+> Pride in Print awards 2009
+{.awards}
 
 ![](/images/Aniwaniwa/aniwaniwa-1.jpg)
 ![](/images/Aniwaniwa/aniwaniwa-2.jpg)

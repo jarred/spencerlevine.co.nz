@@ -12,7 +12,9 @@ categories: [book]
 
 The House that Jack Built is a Gecko Press revival of an award-winning, modern New Zealand classic, which uses a familiar nursery rhyme to tell the story of Aotearoa New Zealand in the early 19th century.
 
-CMYK Cover. 36 pp.
+> # specifications
+> CMYK Cover. 36 pp.
+{.specifications}
 
 ![](/images/The-House-That-Jack-Built/gecko-jack-1.jpg)
 ![](/images/The-House-That-Jack-Built/gecko-jack-2.jpg)

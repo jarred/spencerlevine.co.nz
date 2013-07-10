@@ -9,14 +9,18 @@ categories: [Music]
 
 Gig posters for Matterhorn, Wellington
 
-2 Spot colour cover
+> # specifications
+> 2 Spot colour cover
+> {.specifications}
 
-2010 PANZ Book awards
-Highly commended
-Best Illustrated book
-
-2010 NZ Post Book awards
-Finalist
+> # awards
+> 2010 PANZ Book awards  
+> Highly commended  
+> Best Illustrated book  
+> .  
+> 2010 NZ Post Book awards  
+> Finalist
+{.awards}
 
 ![](/images/Matterhorn/matterhorn-1.jpg)
 ![](/images/Matterhorn/matterhorn-2.jpg)

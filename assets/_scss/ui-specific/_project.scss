@@ -10,18 +10,29 @@
 			width: 220px;
 			margin: 20px;
 			h1, h2{
-				font: 600 13px/20px $sans;
+				font: 600 13px/20px $sans; 
 			}
 			p{
 				font: 400 13px/20px $sans;
 			}
 			blockquote{
-				margin-left: 0px;
+				margin: 0px;
+				cursor: default;
 				h1, p{
 					margin: 0px;
 				}
+				h1{
+					text-transform: capitalize;
+					font-weight: 400;
+				}
 				p{
 					display: none;
+				}
+				&.awards{
+					color: #6DB7E9;
+				}
+				&.specifications{
+					color: #D57962;
 				}
 				&:hover{
 					p{

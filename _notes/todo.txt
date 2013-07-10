@@ -1,6 +1,6 @@
 - [x] more spacing in the grid
 - [x] remove project thumbs from project view
 - [x] add rollovers to project thumbs
-- [ ] add specifications rollovers to project descriptions
+- [x] add specifications rollovers to project descriptions
 - [ ] add categories
 - [ ] add about & contact
