@@ -12,7 +12,9 @@ categories: [book]
 
 Beginning in 1976, deaths from asthma in New Zealand rose suddenly and dramatically, tripling by 1979. Neil Pearce tells the controversial and gripping story of how a group of young researchers discovered that the asthma drug fenoterol was the cause of this alarming epidemic.
 
-1 spot colour cover w/ emboss
+> # Specifications
+> 1 spot colour cover w/ emboss
+{.specifications}
 
 ![](/images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-1.jpg)
 ![](/images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-2.jpg)

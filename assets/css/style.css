@@ -3,7 +3,11 @@ html,
 body {
   font-family: 'Helvetica Neue';
   background-color: #FFF;
-  overflow-x: hidden;
+}
+
+/* line 12, ../_scss/style.scss */
+.clearfix {
+  clear: both;
 }
 
 /* normalize.css v2.1.2 | MIT License | git.io/normalize */
@@ -415,10 +419,11 @@ table {
 /* line 1, ../_scss/ui-specific/_nav.scss */
 #nav {
   height: 95px;
-  position: relative;
-  margin: 20px;
+  position: fixed;
+  left: 20px;
+  top: 20px;
 }
-/* line 5, ../_scss/ui-specific/_nav.scss */
+/* line 6, ../_scss/ui-specific/_nav.scss */
 #nav h1.logo {
   position: absolute;
   top: 45px;
@@ -427,7 +432,7 @@ table {
   padding: 0px;
   font: 600 30px/27px 'Didot', times;
 }
-/* line 12, ../_scss/ui-specific/_nav.scss */
+/* line 13, ../_scss/ui-specific/_nav.scss */
 #nav h1.logo a {
   text-decoration: none;
   color: #111111;
@@ -438,22 +443,22 @@ table {
     position: absolute;
   }
 }
-/* line 21, ../_scss/ui-specific/_nav.scss */
+/* line 22, ../_scss/ui-specific/_nav.scss */
 #nav p {
   margin-left: 170px;
   margin-top: 40px;
 }
-/* line 24, ../_scss/ui-specific/_nav.scss */
+/* line 25, ../_scss/ui-specific/_nav.scss */
 #nav p a {
   color: #CCC;
   text-decoration: none;
 }
-/* line 27, ../_scss/ui-specific/_nav.scss */
+/* line 28, ../_scss/ui-specific/_nav.scss */
 #nav p a:hover {
   text-decoration: underline;
 }
 
-/* line 34, ../_scss/ui-specific/_nav.scss */
+/* line 35, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -463,27 +468,45 @@ table {
 /* line 1, ../_scss/ui-specific/_project.scss */
 #project {
   padding: 0px 20px;
-  margin-bottom: 20px;
-  width: 100%;
-  overflow: scroll;
+  padding-top: 135px;
 }
-/* line 6, ../_scss/ui-specific/_project.scss */
+/* line 4, ../_scss/ui-specific/_project.scss */
 #project td {
   vertical-align: top;
   text-align: left;
 }
-/* line 11, ../_scss/ui-specific/_project.scss */
+/* line 9, ../_scss/ui-specific/_project.scss */
 #project td.description .content {
   width: 220px;
   margin: 20px;
 }
-/* line 14, ../_scss/ui-specific/_project.scss */
+/* line 12, ../_scss/ui-specific/_project.scss */
 #project td.description .content h1, #project td.description .content h2 {
   font: 600 13px/20px "Helvetica Neue", Sans-Serif;
 }
-/* line 17, ../_scss/ui-specific/_project.scss */
+/* line 15, ../_scss/ui-specific/_project.scss */
 #project td.description .content p {
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
+}
+/* line 18, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote {
+  margin-left: 0px;
+}
+/* line 20, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote h1, #project td.description .content blockquote p {
+  margin: 0px;
+}
+/* line 23, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote p {
+  display: none;
+}
+/* line 27, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote:hover p {
+  display: block;
+}
+/* line 30, ../_scss/ui-specific/_project.scss */
+#project td.description .content blockquote:hover h1 {
+  display: none;
 }
 @media screen and (max-width: 768px) {
   /* line 1, ../_scss/ui-specific/_project.scss */
@@ -491,27 +514,27 @@ table {
     padding: 0px;
     margin: 0px;
   }
-  /* line 25, ../_scss/ui-specific/_project.scss */
+  /* line 40, ../_scss/ui-specific/_project.scss */
   #project tr, #project td {
     display: block;
     margin: 0px 20px;
   }
-  /* line 29, ../_scss/ui-specific/_project.scss */
+  /* line 44, ../_scss/ui-specific/_project.scss */
   #project td.description {
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* line 32, ../_scss/ui-specific/_project.scss */
+  /* line 47, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
     width: auto;
     margin: 0px;
   }
-  /* line 37, ../_scss/ui-specific/_project.scss */
+  /* line 52, ../_scss/ui-specific/_project.scss */
   #project .image {
     margin-right: 20px;
     margin-bottom: 20px;
   }
-  /* line 41, ../_scss/ui-specific/_project.scss */
+  /* line 56, ../_scss/ui-specific/_project.scss */
   #project img {
     width: 100%;
   }
@@ -521,19 +544,56 @@ table {
 #projects {
   margin-right: 60px;
   margin-left: 20px;
+  margin-top: 135px;
+  position: relative;
+  z-index: 100;
+  background-color: #FFF;
 }
-/* line 4, ../_scss/ui-specific/_projects.scss */
+/* line 8, ../_scss/ui-specific/_projects.scss */
 #projects .project {
+  text-decoration: none;
   display: block;
   float: left;
-  margin-right: 1px;
-  margin-bottom: 1px;
+  margin-right: 20px;
+  margin-bottom: 20px;
   max-width: 100%;
   height: 228px;
+  position: relative;
 }
-/* line 11, ../_scss/ui-specific/_projects.scss */
+/* line 17, ../_scss/ui-specific/_projects.scss */
 #projects .project img {
   height: 228px;
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+/* line 23, ../_scss/ui-specific/_projects.scss */
+#projects .project .info {
+  display: none;
+}
+/* line 27, ../_scss/ui-specific/_projects.scss */
+#projects .project:hover .info {
+  display: block;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  bottom: 10px;
+  right: 10px;
+  background-color: #111111;
+  background-color: rgba(17, 17, 17, 0.9);
+  z-index: 2;
+}
+/* line 38, ../_scss/ui-specific/_projects.scss */
+#projects .project:hover .info h2, #projects .project:hover .info h3 {
+  padding: 10px 20px 0px 10px;
+  margin: 0px;
+  font: 400 13px/20px "Helvetica Neue", Sans-Serif;
+  color: #FFF;
+}
+/* line 44, ../_scss/ui-specific/_projects.scss */
+#projects .project:hover .info h3 {
+  color: #AAA;
+  text-transform: capitalize;
 }
 
 /* line 1, ../_scss/ui-specific/_preloader.scss */

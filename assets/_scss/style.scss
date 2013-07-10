@@ -4,11 +4,14 @@ html,
 body{
 	font-family: 'Helvetica Neue';
 	background-color: #FFF;
-	overflow-x: hidden;
 }
 
 $margin: 20px;
 $black: #111;
+
+.clearfix{
+	clear: both;
+}
 
 @import 'reset/_normalize';
 @import 'ui-specific/_nav';
