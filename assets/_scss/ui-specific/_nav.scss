@@ -15,6 +15,31 @@
 			color: $black;
 		}
 	}
+	ul{
+		position: absolute;
+		top: 0px;
+		font: 400 12px/17px $sans;
+		li{
+			list-style-type: none;
+			a{
+				color: #666;
+				text-decoration: none;
+				&:hover{
+					color: $black;
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+	ul.links{
+		left: 400px;
+		a{
+			color: #BBB;
+		}
+	}
+	ul.categories{
+		left: 300px;
+	}
 	@media screen and (max-width: 768px) {
 		position: absolute;
 	}

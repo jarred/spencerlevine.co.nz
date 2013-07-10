@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Spencer Levine</title>
+		{% include head.html %}
+	</head>
+	<body>
+		{% include nav.html %}
+		
+		<div id="projects">
+			{{ site.categories[books] }}
+
+			{% for post in site.categories[page.category] %}
+				<a href="{{ post.url }}" class="project">
+					{% if post.thumb %}
+						<img src="{{ post.thumb }}" />
+					{% endif %}
+					<div class="info">
+						<h2>{{ post.title }}</h2>
+						<h3>{{ post.categories }}</h3>
+					</div>
+				</a>
+      {% endfor %}
+			<div class="clearfix"></div>
+		</div>
+
+		{% include preloader.html %}
+		{% include js.html %}
+	</body>
+</html>

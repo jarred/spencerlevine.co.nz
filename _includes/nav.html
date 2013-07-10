@@ -1,4 +1,13 @@
 <div id="nav">
 	<a id="pyramid" class="js-extend-view" data-view="pyramid-view" href="/"></a>
 	<h1 class="logo"><a href="/">Spencer<br />Levine</a></h1>
+	<ul class="categories">
+		{% for cat in site.categories %}
+		    <li><a href="/projects/{{ cat[0] }}">{{ cat[0] }}</a></li>
+		{% endfor %}
+	</ul>
+	<ul class="links">
+		<li><a href="/about">About</a></li>
+		<li><a href="mailto:spence@spencerlevine.co.nz">Contact</a></li>
+	</ul>
 </div>

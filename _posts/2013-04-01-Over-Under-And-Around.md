@@ -2,7 +2,7 @@
 layout: project
 title: Over Under And Around
 thumb: /images/Over-Under-And-Around/enjoy-0.jpg
-categories: [Exhibition catalogue]
+categories: [Exhibition, catalogue]
 ---
 
 # Over Under And Around

@@ -2,7 +2,7 @@
 layout: project
 title: The Day My Father Became a Bush
 thumb: /images/The-Day-My-Father-Became-a-Bush/TDMFBAB-0.jpg
-categories: [book]
+category: book
 ---
 
 # The Day My Father Became a Bush
