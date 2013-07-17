@@ -5,7 +5,7 @@ body {
   background-color: #FFF;
 }
 
-/* line 12, ../_scss/style.scss */
+/* line 14, ../_scss/style.scss */
 .clearfix {
   clear: both;
 }
@@ -420,54 +420,66 @@ table {
 #nav {
   height: 95px;
   position: fixed;
-  left: 20px;
-  top: 20px;
+  left: 16px;
+  top: 16px;
 }
 /* line 6, ../_scss/ui-specific/_nav.scss */
-#nav h1.logo {
+#nav .links {
+  font: 600 18px/20px "Helvetica Neue", Sans-Serif;
   position: absolute;
-  top: 45px;
-  left: 170px;
-  margin: 0px;
-  padding: 0px;
-  font: 600 30px/27px 'Didot', times;
+  top: 17px;
+  left: 190px;
+  width: 200px;
 }
-/* line 13, ../_scss/ui-specific/_nav.scss */
-#nav h1.logo a {
+/* line 12, ../_scss/ui-specific/_nav.scss */
+#nav .links a {
+  display: block;
   text-decoration: none;
-  color: #111111;
+  color: #aaaaaa;
 }
-/* line 18, ../_scss/ui-specific/_nav.scss */
-#nav ul {
-  position: absolute;
-  top: 0px;
-  font: 400 12px/17px "Helvetica Neue", Sans-Serif;
-}
-/* line 22, ../_scss/ui-specific/_nav.scss */
-#nav ul li {
-  list-style-type: none;
-}
-/* line 24, ../_scss/ui-specific/_nav.scss */
-#nav ul li a {
-  color: #666;
-  text-decoration: none;
-}
-/* line 27, ../_scss/ui-specific/_nav.scss */
-#nav ul li a:hover {
-  color: #111111;
+/* line 16, ../_scss/ui-specific/_nav.scss */
+#nav .links a:hover {
   text-decoration: underline;
 }
-/* line 34, ../_scss/ui-specific/_nav.scss */
-#nav ul.links {
-  left: 400px;
+/* line 19, ../_scss/ui-specific/_nav.scss */
+#nav .links a:active {
+  opacity: 0.7;
+}
+/* line 23, ../_scss/ui-specific/_nav.scss */
+#nav .links .logo {
+  color: #111111;
+}
+/* line 27, ../_scss/ui-specific/_nav.scss */
+#nav .links .work ul {
+  display: none;
+}
+/* line 30, ../_scss/ui-specific/_nav.scss */
+#nav .links .work span {
+  color: #f7ed10;
+  cursor: pointer;
 }
 /* line 36, ../_scss/ui-specific/_nav.scss */
-#nav ul.links a {
-  color: #BBB;
+#nav .links .work:hover span, #nav .links .work:active span {
+  display: none;
 }
-/* line 40, ../_scss/ui-specific/_nav.scss */
-#nav ul.categories {
-  left: 300px;
+/* line 39, ../_scss/ui-specific/_nav.scss */
+#nav .links .work:hover ul, #nav .links .work:active ul {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 3;
+  display: block;
+  margin: 0px;
+  padding: 0px;
+  background-color: #FFF;
+}
+/* line 50, ../_scss/ui-specific/_nav.scss */
+#nav .links .work:hover ul li, #nav .links .work:active ul li {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 @media screen and (max-width: 768px) {
   /* line 1, ../_scss/ui-specific/_nav.scss */
@@ -475,22 +487,22 @@ table {
     position: absolute;
   }
 }
-/* line 47, ../_scss/ui-specific/_nav.scss */
+/* line 62, ../_scss/ui-specific/_nav.scss */
 #nav p {
   margin-left: 170px;
   margin-top: 40px;
 }
-/* line 50, ../_scss/ui-specific/_nav.scss */
+/* line 65, ../_scss/ui-specific/_nav.scss */
 #nav p a {
   color: #CCC;
   text-decoration: none;
 }
-/* line 53, ../_scss/ui-specific/_nav.scss */
+/* line 68, ../_scss/ui-specific/_nav.scss */
 #nav p a:hover {
   text-decoration: underline;
 }
 
-/* line 60, ../_scss/ui-specific/_nav.scss */
+/* line 75, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -499,8 +511,8 @@ table {
 
 /* line 1, ../_scss/ui-specific/_project.scss */
 #project {
-  padding: 0px 20px;
-  padding-top: 135px;
+  padding: 0px 16px;
+  margin-top: 127px;
 }
 /* line 4, ../_scss/ui-specific/_project.scss */
 #project td {
@@ -563,12 +575,12 @@ table {
   /* line 51, ../_scss/ui-specific/_project.scss */
   #project tr, #project td {
     display: block;
-    margin: 0px 20px;
+    margin: 0px 16px;
   }
   /* line 55, ../_scss/ui-specific/_project.scss */
   #project td.description {
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 16px;
+    margin-bottom: 16px;
   }
   /* line 58, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
@@ -577,8 +589,8 @@ table {
   }
   /* line 63, ../_scss/ui-specific/_project.scss */
   #project .image {
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 16px;
+    margin-bottom: 16px;
   }
   /* line 67, ../_scss/ui-specific/_project.scss */
   #project img {
@@ -589,8 +601,8 @@ table {
 /* line 1, ../_scss/ui-specific/_projects.scss */
 #projects {
   margin-right: 60px;
-  margin-left: 20px;
-  margin-top: 135px;
+  margin-left: 16px;
+  margin-top: 127px;
   position: relative;
   z-index: 100;
   background-color: #FFF;
@@ -600,8 +612,8 @@ table {
   text-decoration: none;
   display: block;
   float: left;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin-right: 16px;
+  margin-bottom: 16px;
   max-width: 100%;
   height: 228px;
   position: relative;
@@ -621,24 +633,25 @@ table {
 #projects .project:hover .info {
   display: block;
   position: absolute;
-  left: 10px;
-  top: 10px;
-  bottom: 10px;
-  right: 10px;
-  background-color: #111111;
-  background-color: rgba(17, 17, 17, 0.9);
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  background-color: #f7ed10;
+  background-color: rgba(247, 237, 16, 0.9);
   z-index: 2;
 }
 /* line 38, ../_scss/ui-specific/_projects.scss */
 #projects .project:hover .info h2, #projects .project:hover .info h3 {
-  padding: 10px 20px 0px 10px;
+  padding: 20px 20px 0px 20px;
   margin: 0px;
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
-  color: #FFF;
+  color: #111111;
 }
 /* line 44, ../_scss/ui-specific/_projects.scss */
 #projects .project:hover .info h3 {
-  color: #AAA;
+  padding-top: 10px;
+  color: #aaaaaa;
   text-transform: capitalize;
 }
 

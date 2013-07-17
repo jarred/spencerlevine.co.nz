@@ -1,13 +1,17 @@
 <div id="nav">
 	<a id="pyramid" class="js-extend-view" data-view="pyramid-view" href="/"></a>
-	<h1 class="logo"><a href="/">Spencer<br />Levine</a></h1>
-	<ul class="categories">
-		{% for cat in site.categories %}
-		    <li><a href="/projects/{{ cat[0] }}">{{ cat[0] }}</a></li>
-		{% endfor %}
-	</ul>
-	<ul class="links">
-		<li><a href="/about">About</a></li>
-		<li><a href="mailto:spence@spencerlevine.co.nz">Contact</a></li>
-	</ul>
+	<div class="links">
+		<a href="/" class="logo">Spencer Levine</a>
+		<a href="/about">About</a>
+		<a href="mailto:spence@spencerlevine.co.nz">Contact</a>
+		<div class="work">
+			<span>Work</span>
+			<ul>
+				<li><a href="/projects/exhibition">Exhibition</a></li>
+				<li><a href="/projects/book">Book</a></li>
+				<li><a href="/projects/poster">Poster</a></li>
+				<li><a href="/projects/music">Music</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
