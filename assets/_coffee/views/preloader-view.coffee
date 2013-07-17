@@ -4,6 +4,6 @@ define ['backbone', 'underscore'], (Backbone, _) ->
 		initialize: ->
 			_.bindAll @
 			@$el = $(@el)
-			_.defer @remove
+			_.delay @remove, 300
 
 	PreloaderView
