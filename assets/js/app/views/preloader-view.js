@@ -7,7 +7,7 @@
       initialize: function() {
         _.bindAll(this);
         this.$el = $(this.el);
-        return _.delay(this.remove, 300);
+        return _.delay(this.remove, 600);
       }
     });
     return PreloaderView;
