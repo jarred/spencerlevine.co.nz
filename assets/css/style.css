@@ -10,6 +10,91 @@ body {
   clear: both;
 }
 
+/* line 1, ../_scss/ui-specific/_preloader.scss */
+#preloader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: #111111;
+  z-index: 500;
+}
+/* line 9, ../_scss/ui-specific/_preloader.scss */
+#preloader .lines {
+  position: absolute;
+  left: -300px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: #111111 url("/assets/img/preloader-bg.png") repeat 0px 0px;
+  background-attachment: fixed;
+  -moz-animation: slide 1s infinite linear;
+  -o-animation: slide 1s infinite linear;
+  -webkit-animation: slide 1s infinite linear;
+  animation: slide 1s infinite linear;
+}
+
+@-moz-keyframes slide {
+  /* line 25, ../_scss/ui-specific/_preloader.scss */
+  0% {
+    background-position: 0px 0px;
+  }
+
+  /* line 29, ../_scss/ui-specific/_preloader.scss */
+  100% {
+    background-position: 300px 0px;
+  }
+}
+
+@-webkit-keyframes slide {
+  /* line 25, ../_scss/ui-specific/_preloader.scss */
+  0% {
+    background-position: 0px 0px;
+  }
+
+  /* line 29, ../_scss/ui-specific/_preloader.scss */
+  100% {
+    background-position: 300px 0px;
+  }
+}
+
+@-o-keyframes slide {
+  /* line 25, ../_scss/ui-specific/_preloader.scss */
+  0% {
+    background-position: 0px 0px;
+  }
+
+  /* line 29, ../_scss/ui-specific/_preloader.scss */
+  100% {
+    background-position: 300px 0px;
+  }
+}
+
+@-ms-keyframes slide {
+  /* line 25, ../_scss/ui-specific/_preloader.scss */
+  0% {
+    background-position: 0px 0px;
+  }
+
+  /* line 29, ../_scss/ui-specific/_preloader.scss */
+  100% {
+    background-position: 300px 0px;
+  }
+}
+
+@keyframes slide {
+  /* line 25, ../_scss/ui-specific/_preloader.scss */
+  0% {
+    background-position: 0px 0px;
+  }
+
+  /* line 29, ../_scss/ui-specific/_preloader.scss */
+  100% {
+    background-position: 300px 0px;
+  }
+}
+
 /* normalize.css v2.1.2 | MIT License | git.io/normalize */
 /* ==========================================================================
    HTML5 display definitions
@@ -663,89 +748,4 @@ table {
   padding-top: 10px;
   color: #aaaaaa;
   text-transform: capitalize;
-}
-
-/* line 1, ../_scss/ui-specific/_preloader.scss */
-#preloader {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  background-color: #111111;
-  z-index: 500;
-}
-/* line 9, ../_scss/ui-specific/_preloader.scss */
-#preloader .lines {
-  position: absolute;
-  left: -300px;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  background: #111111 url("/assets/img/preloader-bg.png") repeat 0px 0px;
-  background-attachment: fixed;
-  -moz-animation: slide 1s infinite linear;
-  -o-animation: slide 1s infinite linear;
-  -webkit-animation: slide 1s infinite linear;
-  animation: slide 1s infinite linear;
-}
-
-@-moz-keyframes slide {
-  /* line 25, ../_scss/ui-specific/_preloader.scss */
-  0% {
-    background-position: 0px 0px;
-  }
-
-  /* line 29, ../_scss/ui-specific/_preloader.scss */
-  100% {
-    background-position: 300px 0px;
-  }
-}
-
-@-webkit-keyframes slide {
-  /* line 25, ../_scss/ui-specific/_preloader.scss */
-  0% {
-    background-position: 0px 0px;
-  }
-
-  /* line 29, ../_scss/ui-specific/_preloader.scss */
-  100% {
-    background-position: 300px 0px;
-  }
-}
-
-@-o-keyframes slide {
-  /* line 25, ../_scss/ui-specific/_preloader.scss */
-  0% {
-    background-position: 0px 0px;
-  }
-
-  /* line 29, ../_scss/ui-specific/_preloader.scss */
-  100% {
-    background-position: 300px 0px;
-  }
-}
-
-@-ms-keyframes slide {
-  /* line 25, ../_scss/ui-specific/_preloader.scss */
-  0% {
-    background-position: 0px 0px;
-  }
-
-  /* line 29, ../_scss/ui-specific/_preloader.scss */
-  100% {
-    background-position: 300px 0px;
-  }
-}
-
-@keyframes slide {
-  /* line 25, ../_scss/ui-specific/_preloader.scss */
-  0% {
-    background-position: 0px 0px;
-  }
-
-  /* line 29, ../_scss/ui-specific/_preloader.scss */
-  100% {
-    background-position: 300px 0px;
-  }
 }

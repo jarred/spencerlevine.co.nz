@@ -15,8 +15,8 @@ $grey: #AAA;
 	clear: both;
 }
 
+@import 'ui-specific/_preloader';
 @import 'reset/_normalize';
 @import 'ui-specific/_nav';
 @import 'ui-specific/_project';
 @import 'ui-specific/_projects';
-@import 'ui-specific/_preloader';
