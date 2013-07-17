@@ -1,6 +1,9 @@
 #project{
-	padding: 0px $margin;
+	padding: 0px 20px 20px $margin;
 	margin-top: 95px + ($margin * 2);
+	z-index: 100;
+	background-color: #FFF;
+	position: relative;
 	td{
 		vertical-align: top;
 		text-align: left;
@@ -8,12 +11,17 @@
 	td.description{
 		.content{
 			width: 220px;
-			margin: 20px;
+			margin: 0px 20px;
 			h1, h2{
 				font: 600 13px/20px $sans; 
 			}
+			h1{
+				font: 600 18px/20px $sans;
+				color: $grey;
+			}
 			p{
 				font: 400 13px/20px $sans;
+				margin-top: 0px;
 			}
 			blockquote{
 				margin: 0px;
@@ -24,15 +32,20 @@
 				h1{
 					text-transform: capitalize;
 					font-weight: 400;
+					font: 400 13px/20px $sans;
 				}
 				p{
 					display: none;
 				}
 				&.awards{
-					color: #6DB7E9;
+					h1, p{
+						color: #6DB7E9;	
+					}
 				}
 				&.specifications{
-					color: #D57962;
+					h1, p{
+						color: #D57962;
+					}
 				}
 				&:hover{
 					p{
