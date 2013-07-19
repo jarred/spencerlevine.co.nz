@@ -2,6 +2,7 @@
 layout: project
 title: Big Data 
 thumb: /images/Tirohia-Mai/nat-lib-TM-wgtn-0.jpg
+categories: [exhibition]
 ---
 
 # Tirohia Mai Look at us now

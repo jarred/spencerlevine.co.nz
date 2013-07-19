@@ -22,4 +22,15 @@
 		top: 150px;
 		width: 300px;
 	}
+	.credit{
+		position: absolute;
+		bottom: 16px;
+		left: 16px;
+		margin: 0px;
+		font: 400 12px/12px $sans;
+		color: #AAA;
+		a{
+			color: #AAA;
+		}
+	}
 }

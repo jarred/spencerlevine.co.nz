@@ -507,7 +507,7 @@ table {
   position: fixed;
   left: 16px;
   top: 16px;
-  z-index: 200;
+  z-index: 50;
 }
 /* line 7, ../_scss/ui-specific/_nav.scss */
 #nav .links {
@@ -778,4 +778,17 @@ table {
   left: 16px;
   top: 150px;
   width: 300px;
+}
+/* line 25, ../_scss/ui-specific/_about.scss */
+#about .credit {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  margin: 0px;
+  font: 400 12px/12px "Helvetica Neue", Sans-Serif;
+  color: #AAA;
+}
+/* line 32, ../_scss/ui-specific/_about.scss */
+#about .credit a {
+  color: #AAA;
 }

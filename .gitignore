@@ -2,3 +2,4 @@ _site/
 .dropbox/
 .dropbox
 .sass-cache
+.DS_Store
