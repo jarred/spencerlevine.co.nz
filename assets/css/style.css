@@ -515,7 +515,7 @@ table {
   position: absolute;
   top: 17px;
   left: 190px;
-  width: 200px;
+  width: 160px;
 }
 /* line 13, ../_scss/ui-specific/_nav.scss */
 #nav .links a {
@@ -763,19 +763,19 @@ table {
 /* line 8, ../_scss/ui-specific/_about.scss */
 #about .bg {
   position: absolute;
-  left: 0px;
+  left: 400px;
   top: 0px;
   right: 0px;
   bottom: 0px;
   background-size: cover;
-  background-position: top right;
+  background-position: center right;
 }
 /* line 17, ../_scss/ui-specific/_about.scss */
-#about .content {
+#about .page {
   position: absolute;
   z-index: 40;
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
-  right: 100px;
-  top: 20px;
+  left: 16px;
+  top: 150px;
   width: 300px;
 }
