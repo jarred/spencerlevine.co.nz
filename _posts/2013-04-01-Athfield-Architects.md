@@ -3,6 +3,7 @@ layout: project
 title: Athfield Architects
 thumb: /images/Athfield-Architects/AUP-ath-0.jpg
 categories: [book]
+award: true
 ---
 
 # Athfield Architects

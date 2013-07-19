@@ -1,15 +1,14 @@
----
-layout: project
-title: The-Black-Seeds-Solid-Ground
-thumb: /images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-0.jpg
+--- 
+layout: project 
+title: The Black Seeds Solid Ground 
+thumb: /images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-0.jpg 
 categories: [music]
 ---
 
-# The Black Seeds
-##Solid Ground
+## The Black Seeds ##Solid Ground
 
-> # specifications
-> CMYK w/ gatefold
+> # specifications 
+> CMYK w/ gatefold  
 {.specifications}
 
 ![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-1.jpg)

@@ -7,31 +7,85 @@
       width: 120,
       height: 95,
       initialize: function() {
+        var _this = this;
+
         _.bindAll(this);
         this.$el = $(this.el);
-        return this.render();
+        this.updateVariables();
+        this.render();
+        $(document).bind('resize', this.updateVariables);
+        $(document).bind('mousemove', this.updateEye);
+        return $(document).bind('touchmove', function(e) {
+          var touch;
+
+          touch = e.originalEvent.changedTouches[0];
+          _this.updateEye({
+            clientX: touch.pageX,
+            clientY: touch.pageY
+          });
+          return false;
+        });
+      },
+      updateVariables: function() {
+        this.screenW = $(window).width();
+        return this.screenH = $(window).height();
       },
       render: function() {
-        var eye_bg, gloss, pupil, pyramid;
+        var eye_bg, gloss,
+          _this = this;
 
+        Two.Resolution = 24;
         this.two = new Two({
           width: this.width,
           height: this.height
         });
         this.two.appendTo(document.getElementById('pyramid'));
-        pyramid = this.two.makePolygon(this.width / 2, 0, this.width, this.height, 0, this.height, false);
-        pyramid.fill = 'rgb(247, 237, 16)';
-        pyramid.noStroke();
+        this.pyramid = this.two.makePolygon(this.width / 2, 0, this.width, this.height, 0, this.height, false);
+        this.pyramid.fill = 'rgb(247, 237, 16)';
+        this.pyramid.noStroke();
         eye_bg = this.two.makeCircle(60, 58, 22);
         eye_bg.fill = '#FFF';
         eye_bg.noStroke();
-        pupil = this.two.makeCircle(66, 65, 9);
-        pupil.fill = '#000';
-        pupil.noStroke();
+        this.pupil = this.two.makeCircle(66, 65, 9);
+        this.pupil.fill = '#000';
+        this.pupil.noStroke();
+        this.pupil.destination = new Two.Vector();
+        this.pupil.bind('update', function() {
+          console.log('update pupil');
+          _this.pupil.translation.x += (_this.pupil.destination.x - _this.pupil.translation.x) * 0.625;
+          return _this.pupil.translation.y += (_this.pupil.destination.y - _this.pupil.translation.y) * 0.625;
+        });
         gloss = this.two.makeCircle(60, 52, 13);
         gloss.fill = '#FFF';
         gloss.opacity = 0.4;
         gloss.noStroke();
+        return this.two.update();
+      },
+      updateEye: function(e) {
+        var center, distance, mouse, pct, radius, rect, theta, x, y;
+
+        mouse = new Two.Vector(e.clientX, e.clientY);
+        rect = {
+          left: 16,
+          top: 16,
+          width: 120,
+          height: 95
+        };
+        center = {
+          x: rect.left + rect.width / 2,
+          y: rect.top + rect.height / 2
+        };
+        theta = Math.atan2(mouse.y - center.y, mouse.x - center.x);
+        distance = mouse.distanceTo(center);
+        pct = distance / this.screenW;
+        radius = 75 * pct;
+        this.pupil.destination.set(radius * Math.cos(theta), radius * Math.sin(theta));
+        this.two.update();
+        return;
+        x = e.pageX;
+        y = e.pageY;
+        this.pupil.translation.x = 30;
+        this.pupil.translation.y = 30;
         return this.two.update();
       }
     });
