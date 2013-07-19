@@ -22,30 +22,54 @@
 		}
 		.info{
 			display: none;
+			position:absolute;
+			left: 0px;
+			top: 0px;
+			bottom: 0px;
+			right: 0px;
+			background-color: $yellow;
+			background-color: rgba($yellow, .9);
+			z-index: 2;
+			h2, h3{
+				padding: 20px 20px 0px 20px;
+				margin: 0px;
+				font: 400 13px/20px $sans;
+				color: $black;
+			}
+			h3{
+				padding-top: 10px;
+				color: $grey;
+				text-transform: capitalize;
+			}
 		}
 		&:hover{
 			.info{
-				$margin: 0px;
 				display: block;
-				position:absolute;
-				left: $margin;
-				top: $margin;
-				bottom: $margin;
-				right: $margin;
-				background-color: $yellow;
-				background-color: rgba($yellow, .9);
-				z-index: 2;
+			}
+		}
+	}
+	@media screen and (max-width: 500px) {
+		margin-right: 0px;
+		text-align: center;
+		.project{
+			float: none;
+			clear: both;
+			height: auto;
+			margin: 0px $margin 40px 0px;
+			.info{
+				display: block;
+				position: static;
+				background-color: #FFF;
+				margin-top: 10px;
 				h2, h3{
-					padding: 20px 20px 0px 20px;
-					margin: 0px;
-					font: 400 13px/20px $sans;
-					color: $black;
+					padding: 0px;
+					margin-bottom: 4px;
 				}
-				h3{
-					padding-top: 10px;
-					color: $grey;
-					text-transform: capitalize;
-				}
+			}
+			img{
+				height: auto;
+				max-width: 100%;
+				@include center-block;
 			}
 		}
 	}

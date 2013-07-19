@@ -10,6 +10,31 @@ body {
   clear: both;
 }
 
+/* Placeholder text
+  ========================================================================== */
+/* Box Model
+  ========================================================================== */
+/* Usage */
+/* Border Radius
+  ========================================================================== */
+/* Opacity
+  ========================================================================== */
+/* Center-align a block level element
+  ========================================================================== */
+/* Text overflow
+  ========================================================================== */
+/* Cross browser inline block
+  ========================================================================== */
+/* Usage */
+/* line 118, ../_scss/helpers/_misc.scss */
+.icon {
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  *display: inline;
+}
+
 /* line 1, ../_scss/ui-specific/_preloader.scss */
 #preloader {
   position: fixed;
@@ -517,38 +542,44 @@ table {
   left: 190px;
   width: 160px;
 }
-/* line 13, ../_scss/ui-specific/_nav.scss */
+@media screen and (max-width: 400px) {
+  /* line 7, ../_scss/ui-specific/_nav.scss */
+  #nav .links {
+    left: 140px;
+  }
+}
+/* line 16, ../_scss/ui-specific/_nav.scss */
 #nav .links a {
   display: block;
   text-decoration: none;
   color: #aaaaaa;
 }
-/* line 17, ../_scss/ui-specific/_nav.scss */
+/* line 20, ../_scss/ui-specific/_nav.scss */
 #nav .links a:hover {
   text-decoration: underline;
 }
-/* line 20, ../_scss/ui-specific/_nav.scss */
+/* line 23, ../_scss/ui-specific/_nav.scss */
 #nav .links a:active {
   opacity: 0.7;
 }
-/* line 24, ../_scss/ui-specific/_nav.scss */
+/* line 27, ../_scss/ui-specific/_nav.scss */
 #nav .links .logo {
   color: #111111;
 }
-/* line 28, ../_scss/ui-specific/_nav.scss */
+/* line 31, ../_scss/ui-specific/_nav.scss */
 #nav .links .work ul {
   display: none;
 }
-/* line 31, ../_scss/ui-specific/_nav.scss */
+/* line 34, ../_scss/ui-specific/_nav.scss */
 #nav .links .work span {
   color: #f7ed10;
   cursor: pointer;
 }
-/* line 37, ../_scss/ui-specific/_nav.scss */
+/* line 40, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover span, #nav .links .work:active span {
   display: none;
 }
-/* line 40, ../_scss/ui-specific/_nav.scss */
+/* line 43, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover ul, #nav .links .work:active ul {
   position: absolute;
   left: 0px;
@@ -561,7 +592,7 @@ table {
   padding: 0px;
   background-color: #FFF;
 }
-/* line 51, ../_scss/ui-specific/_nav.scss */
+/* line 54, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover ul li, #nav .links .work:active ul li {
   list-style-type: none;
   padding: 0px;
@@ -573,22 +604,22 @@ table {
     position: absolute;
   }
 }
-/* line 63, ../_scss/ui-specific/_nav.scss */
+/* line 66, ../_scss/ui-specific/_nav.scss */
 #nav p {
   margin-left: 170px;
   margin-top: 40px;
 }
-/* line 66, ../_scss/ui-specific/_nav.scss */
+/* line 69, ../_scss/ui-specific/_nav.scss */
 #nav p a {
   color: #CCC;
   text-decoration: none;
 }
-/* line 69, ../_scss/ui-specific/_nav.scss */
+/* line 72, ../_scss/ui-specific/_nav.scss */
 #nav p a:hover {
   text-decoration: underline;
 }
 
-/* line 76, ../_scss/ui-specific/_nav.scss */
+/* line 79, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -628,37 +659,46 @@ table {
   margin-top: 0px;
 }
 /* line 26, ../_scss/ui-specific/_project.scss */
+#project td.description .content a {
+  color: #111111;
+  text-decoration: underline;
+}
+/* line 29, ../_scss/ui-specific/_project.scss */
+#project td.description .content a:hover {
+  text-decoration: none;
+}
+/* line 33, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote {
   margin: 0px;
   cursor: default;
 }
-/* line 29, ../_scss/ui-specific/_project.scss */
+/* line 36, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote h1, #project td.description .content blockquote p {
   margin: 0px;
 }
-/* line 32, ../_scss/ui-specific/_project.scss */
+/* line 39, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote h1 {
   text-transform: capitalize;
   font-weight: 400;
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
 }
-/* line 37, ../_scss/ui-specific/_project.scss */
+/* line 44, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote p {
   display: none;
 }
-/* line 41, ../_scss/ui-specific/_project.scss */
+/* line 48, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote.awards h1, #project td.description .content blockquote.awards p {
   color: #6DB7E9;
 }
-/* line 46, ../_scss/ui-specific/_project.scss */
+/* line 53, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote.specifications h1, #project td.description .content blockquote.specifications p {
   color: #D57962;
 }
-/* line 51, ../_scss/ui-specific/_project.scss */
+/* line 58, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover p {
   display: block;
 }
-/* line 54, ../_scss/ui-specific/_project.scss */
+/* line 61, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover h1 {
   display: none;
 }
@@ -666,31 +706,22 @@ table {
   /* line 1, ../_scss/ui-specific/_project.scss */
   #project {
     padding: 0px;
-    margin: 0px;
-  }
-  /* line 64, ../_scss/ui-specific/_project.scss */
-  #project tr, #project td {
-    display: block;
-    margin: 0px 16px;
-  }
-  /* line 68, ../_scss/ui-specific/_project.scss */
-  #project td.description {
-    margin-right: 16px;
-    margin-bottom: 16px;
+    margin: 127px 16px 16px 16px;
   }
   /* line 71, ../_scss/ui-specific/_project.scss */
+  #project tr, #project td {
+    display: block;
+    margin-bottom: 16px;
+  }
+  /* line 76, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
     width: auto;
     margin: 0px;
   }
-  /* line 76, ../_scss/ui-specific/_project.scss */
-  #project .image {
-    margin-right: 16px;
-    margin-bottom: 16px;
-  }
-  /* line 80, ../_scss/ui-specific/_project.scss */
+  /* line 81, ../_scss/ui-specific/_project.scss */
   #project img {
     width: 100%;
+    display: block;
   }
 }
 
@@ -724,10 +755,6 @@ table {
 /* line 23, ../_scss/ui-specific/_projects.scss */
 #projects .project .info {
   display: none;
-}
-/* line 27, ../_scss/ui-specific/_projects.scss */
-#projects .project:hover .info {
-  display: block;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -737,18 +764,56 @@ table {
   background-color: rgba(247, 237, 16, 0.9);
   z-index: 2;
 }
-/* line 38, ../_scss/ui-specific/_projects.scss */
-#projects .project:hover .info h2, #projects .project:hover .info h3 {
+/* line 33, ../_scss/ui-specific/_projects.scss */
+#projects .project .info h2, #projects .project .info h3 {
   padding: 20px 20px 0px 20px;
   margin: 0px;
   font: 400 13px/20px "Helvetica Neue", Sans-Serif;
   color: #111111;
 }
-/* line 44, ../_scss/ui-specific/_projects.scss */
-#projects .project:hover .info h3 {
+/* line 39, ../_scss/ui-specific/_projects.scss */
+#projects .project .info h3 {
   padding-top: 10px;
   color: #aaaaaa;
   text-transform: capitalize;
+}
+/* line 46, ../_scss/ui-specific/_projects.scss */
+#projects .project:hover .info {
+  display: block;
+}
+@media screen and (max-width: 500px) {
+  /* line 1, ../_scss/ui-specific/_projects.scss */
+  #projects {
+    margin-right: 0px;
+    text-align: center;
+  }
+  /* line 54, ../_scss/ui-specific/_projects.scss */
+  #projects .project {
+    float: none;
+    clear: both;
+    height: auto;
+    margin: 0px 16px 40px 0px;
+  }
+  /* line 59, ../_scss/ui-specific/_projects.scss */
+  #projects .project .info {
+    display: block;
+    position: static;
+    background-color: #FFF;
+    margin-top: 10px;
+  }
+  /* line 64, ../_scss/ui-specific/_projects.scss */
+  #projects .project .info h2, #projects .project .info h3 {
+    padding: 0px;
+    margin-bottom: 4px;
+  }
+  /* line 69, ../_scss/ui-specific/_projects.scss */
+  #projects .project img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* line 1, ../_scss/ui-specific/_about.scss */

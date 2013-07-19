@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Long-Live-The-Modern
+title: Long Live The Modern
 thumb: /images/Long-Live-The-Modern/AUP-Long-Live-The-Modern-0.jpg
 categories: [book]
 ---

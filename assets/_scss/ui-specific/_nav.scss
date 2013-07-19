@@ -10,6 +10,9 @@
 		top: 17px;
 		left: 190px;
 		width: 160px;
+		@media screen and (max-width: 400px) {
+			left: 140px;
+		}
 		a{
 			display: block;
 			text-decoration: none;

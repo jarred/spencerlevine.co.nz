@@ -23,6 +23,13 @@
 				font: 400 13px/20px $sans;
 				margin-top: 0px;
 			}
+			a{
+				color: $black;
+				text-decoration: underline;
+				&:hover{
+					text-decoration: none;
+				}
+			}
 			blockquote{
 				margin: 0px;
 				cursor: default;
@@ -60,25 +67,20 @@
 	}
 	@media screen and (max-width: 768px) {
 		padding: 0px;
-		margin: 0px;
+		margin: 95px + ($margin * 2) $margin $margin $margin;
 		tr, td{
 			display: block;
-			margin: 0px $margin;
+			margin-bottom: $margin;
 		}
 		td.description{
-			margin-right: $margin;
-			margin-bottom: $margin;
 			.content{
 				width: auto;
 				margin: 0px;
 			}
 		}
-		.image{
-			margin-right: $margin;
-			margin-bottom: $margin;
-		}
 		img{
 			width: 100%;
+			display: block;
 		}
 	}
 }
