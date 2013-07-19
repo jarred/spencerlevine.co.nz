@@ -3,6 +3,7 @@
 	position: fixed;
 	left: $margin;
 	top: $margin;
+	z-index: 200;
 	.links{
 		font: 600 18px/20px $sans;
 		position: absolute;

@@ -507,8 +507,9 @@ table {
   position: fixed;
   left: 16px;
   top: 16px;
+  z-index: 200;
 }
-/* line 6, ../_scss/ui-specific/_nav.scss */
+/* line 7, ../_scss/ui-specific/_nav.scss */
 #nav .links {
   font: 600 18px/20px "Helvetica Neue", Sans-Serif;
   position: absolute;
@@ -516,38 +517,38 @@ table {
   left: 190px;
   width: 200px;
 }
-/* line 12, ../_scss/ui-specific/_nav.scss */
+/* line 13, ../_scss/ui-specific/_nav.scss */
 #nav .links a {
   display: block;
   text-decoration: none;
   color: #aaaaaa;
 }
-/* line 16, ../_scss/ui-specific/_nav.scss */
+/* line 17, ../_scss/ui-specific/_nav.scss */
 #nav .links a:hover {
   text-decoration: underline;
 }
-/* line 19, ../_scss/ui-specific/_nav.scss */
+/* line 20, ../_scss/ui-specific/_nav.scss */
 #nav .links a:active {
   opacity: 0.7;
 }
-/* line 23, ../_scss/ui-specific/_nav.scss */
+/* line 24, ../_scss/ui-specific/_nav.scss */
 #nav .links .logo {
   color: #111111;
 }
-/* line 27, ../_scss/ui-specific/_nav.scss */
+/* line 28, ../_scss/ui-specific/_nav.scss */
 #nav .links .work ul {
   display: none;
 }
-/* line 30, ../_scss/ui-specific/_nav.scss */
+/* line 31, ../_scss/ui-specific/_nav.scss */
 #nav .links .work span {
   color: #f7ed10;
   cursor: pointer;
 }
-/* line 36, ../_scss/ui-specific/_nav.scss */
+/* line 37, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover span, #nav .links .work:active span {
   display: none;
 }
-/* line 39, ../_scss/ui-specific/_nav.scss */
+/* line 40, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover ul, #nav .links .work:active ul {
   position: absolute;
   left: 0px;
@@ -560,7 +561,7 @@ table {
   padding: 0px;
   background-color: #FFF;
 }
-/* line 50, ../_scss/ui-specific/_nav.scss */
+/* line 51, ../_scss/ui-specific/_nav.scss */
 #nav .links .work:hover ul li, #nav .links .work:active ul li {
   list-style-type: none;
   padding: 0px;
@@ -572,22 +573,22 @@ table {
     position: absolute;
   }
 }
-/* line 62, ../_scss/ui-specific/_nav.scss */
+/* line 63, ../_scss/ui-specific/_nav.scss */
 #nav p {
   margin-left: 170px;
   margin-top: 40px;
 }
-/* line 65, ../_scss/ui-specific/_nav.scss */
+/* line 66, ../_scss/ui-specific/_nav.scss */
 #nav p a {
   color: #CCC;
   text-decoration: none;
 }
-/* line 68, ../_scss/ui-specific/_nav.scss */
+/* line 69, ../_scss/ui-specific/_nav.scss */
 #nav p a:hover {
   text-decoration: underline;
 }
 
-/* line 75, ../_scss/ui-specific/_nav.scss */
+/* line 76, ../_scss/ui-specific/_nav.scss */
 #pyramid {
   display: block;
   width: 120px;
@@ -748,4 +749,33 @@ table {
   padding-top: 10px;
   color: #aaaaaa;
   text-transform: capitalize;
+}
+
+/* line 1, ../_scss/ui-specific/_about.scss */
+#about {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+}
+/* line 8, ../_scss/ui-specific/_about.scss */
+#about .bg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-size: cover;
+  background-position: top right;
+}
+/* line 17, ../_scss/ui-specific/_about.scss */
+#about .content {
+  position: absolute;
+  z-index: 40;
+  font: 400 13px/20px "Helvetica Neue", Sans-Serif;
+  right: 100px;
+  top: 20px;
+  width: 300px;
 }
