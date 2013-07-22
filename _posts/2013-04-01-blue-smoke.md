@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Blue Smoke
-thumb: /images/blue-smoke/AUP-Blue-Smoke-0.jpg
+thumb: /images/Blue-Smoke/AUP-Blue-Smoke-0.jpg
 categories: [book]
 ---
 
@@ -31,5 +31,5 @@ This illustrated history of popular music in New Zealand from World War I to the
 > 3 spot colour cover w/ removable belly band
 {.specifications}
 
-![](/images/blue-smoke/AUP-Blue-Smoke-1.jpg)
-![](/images/blue-smoke/AUP-Blue-Smoke-2.jpg)
+![](/images/Blue-Smoke/AUP-Blue-Smoke-1.jpg)
+![](/images/Blue-Smoke/AUP-Blue-Smoke-2.jpg)
