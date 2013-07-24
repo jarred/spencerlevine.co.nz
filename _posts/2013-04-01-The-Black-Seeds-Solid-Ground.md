@@ -5,7 +5,8 @@ thumb: /images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-0.jpg
 categories: [music]
 ---
 
-## The Black Seeds ##Solid Ground
+# The Black Seeds 
+## Solid Ground
 
 > # specifications 
 > CMYK w/ gatefold  

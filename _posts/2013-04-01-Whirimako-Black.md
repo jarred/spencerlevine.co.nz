@@ -5,11 +5,11 @@ thumb: /images/Whirimako-Black/CD-Whirimako-Black-0.jpg
 categories: [music]
 ---
 
-# Video Kid
-## Prototype
+# Whirimako Black
+## Tangihaku
 
 > # specifications
-> CMYK 
+> 2 Spot colour 
 {.specifications}
 
 

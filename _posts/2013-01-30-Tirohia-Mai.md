@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Big Data 
+title: Tirohia Mai 
 thumb: /images/Tirohia-Mai/nat-lib-TM-wgtn-0.jpg
 categories: [exhibition]
 ---
@@ -9,7 +9,7 @@ categories: [exhibition]
 
 ## National Library of New Zealand
 
-New Zealand women won the vote 120 years ago.  Tirohia Mai looks at where women
+New Zealand women won the vote 120 years ago. Tirohia Mai looks at where women
 stand now, how they got here, and how they see themselves in 2013. It celebrates
 the rich diversity of women and their contributions to making New Zealand what
 it is today and will be tomorrow.
