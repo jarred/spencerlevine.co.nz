@@ -777,7 +777,17 @@ table {
   color: #aaaaaa;
   text-transform: capitalize;
 }
-/* line 46, ../_scss/ui-specific/_projects.scss */
+/* line 44, ../_scss/ui-specific/_projects.scss */
+#projects .project .info .award {
+  position: absolute;
+  bottom: 20px;
+  left: 16px;
+  color: #111111;
+  margin: 0px;
+  padding: 0px;
+  font: 400 20px/1 "Helvetica Neue", Sans-Serif;
+}
+/* line 55, ../_scss/ui-specific/_projects.scss */
 #projects .project:hover .info {
   display: block;
 }
@@ -787,26 +797,26 @@ table {
     margin-right: 0px;
     text-align: center;
   }
-  /* line 54, ../_scss/ui-specific/_projects.scss */
+  /* line 63, ../_scss/ui-specific/_projects.scss */
   #projects .project {
     float: none;
     clear: both;
     height: auto;
     margin: 0px 16px 40px 0px;
   }
-  /* line 59, ../_scss/ui-specific/_projects.scss */
+  /* line 68, ../_scss/ui-specific/_projects.scss */
   #projects .project .info {
     display: block;
     position: static;
     background-color: #FFF;
     margin-top: 10px;
   }
-  /* line 64, ../_scss/ui-specific/_projects.scss */
+  /* line 73, ../_scss/ui-specific/_projects.scss */
   #projects .project .info h2, #projects .project .info h3 {
     padding: 0px;
     margin-bottom: 4px;
   }
-  /* line 69, ../_scss/ui-specific/_projects.scss */
+  /* line 78, ../_scss/ui-specific/_projects.scss */
   #projects .project img {
     height: auto;
     max-width: 100%;

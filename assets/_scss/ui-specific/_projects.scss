@@ -41,6 +41,15 @@
 				color: $grey;
 				text-transform: capitalize;
 			}
+			.award{
+				position: absolute;
+				bottom: 20px;
+				left: 16px;
+				color: $black;
+				margin: 0px;
+				padding: 0px;
+				font: 400 20px/1 $sans;
+			}
 		}
 		&:hover{
 			.info{
