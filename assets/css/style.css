@@ -787,7 +787,13 @@ table {
   padding: 0px;
   font: 400 20px/1 "Helvetica Neue", Sans-Serif;
 }
-/* line 55, ../_scss/ui-specific/_projects.scss */
+@media screen and (max-width: 500px) {
+  /* line 44, ../_scss/ui-specific/_projects.scss */
+  #projects .project .info .award {
+    display: none;
+  }
+}
+/* line 58, ../_scss/ui-specific/_projects.scss */
 #projects .project:hover .info {
   display: block;
 }
@@ -797,26 +803,26 @@ table {
     margin-right: 0px;
     text-align: center;
   }
-  /* line 63, ../_scss/ui-specific/_projects.scss */
+  /* line 66, ../_scss/ui-specific/_projects.scss */
   #projects .project {
     float: none;
     clear: both;
     height: auto;
     margin: 0px 16px 40px 0px;
   }
-  /* line 68, ../_scss/ui-specific/_projects.scss */
+  /* line 71, ../_scss/ui-specific/_projects.scss */
   #projects .project .info {
     display: block;
     position: static;
     background-color: #FFF;
     margin-top: 10px;
   }
-  /* line 73, ../_scss/ui-specific/_projects.scss */
+  /* line 76, ../_scss/ui-specific/_projects.scss */
   #projects .project .info h2, #projects .project .info h3 {
     padding: 0px;
     margin-bottom: 4px;
   }
-  /* line 78, ../_scss/ui-specific/_projects.scss */
+  /* line 81, ../_scss/ui-specific/_projects.scss */
   #projects .project img {
     height: auto;
     max-width: 100%;
