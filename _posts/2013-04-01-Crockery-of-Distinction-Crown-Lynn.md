@@ -13,8 +13,8 @@ Exhibition notes
 
 From select examples of Crown Lynn’s mass produced lines, through to the self-consciously modern designs of some key designers, these objects are considered for their continuing relevance in our cultural history. Rather than presenting a single definitive narrative, this exhibition navigates some of the myriad lines of fascination Crown Lynn holds over twenty years after its closure.
 
-> # Specifications
-> CMYK throughout. 32 pages w/ gatefold. 
+> # specifications
+> CMYK throughout, 32 pages w/ gatefold. 
 {.specifications}
 
 ![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-1.jpg)

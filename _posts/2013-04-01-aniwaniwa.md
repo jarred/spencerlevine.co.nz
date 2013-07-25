@@ -3,6 +3,7 @@ layout: project
 title: Aniwaniwa
 thumb: /images/Aniwaniwa/aniwaniwa-0.jpg
 categories: [book]
+award: true
 ---
 
 # Aniwaniwa
@@ -21,7 +22,7 @@ Aniwaniwa is a collection of wakahuia with internal projections and sound compon
 > # Awards  
 > Gold Medal  
 > Pride in Print awards 2009
-{.awards}
+
 
 ![](/images/Aniwaniwa/aniwaniwa-1.jpg)
 ![](/images/Aniwaniwa/aniwaniwa-2.jpg)

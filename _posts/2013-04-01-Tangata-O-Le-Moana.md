@@ -13,7 +13,7 @@ categories: [book]
 Aotearoa New Zealand is home to a large Pasifika population. This illustrated collection of essays is the first of its kind to tell their stories – from the legendary feats of the ancestors of modern Māori, to the politically explosive dawn raids of the 1970s, and beyond.
 
 > # specifications
-> CMYK throughout. 392pp.
+> CMYK throughout, 392 pages.
 {.specifications}
 
 ![](/images/Tangata-O-Le-Moana/TOLM-spread-1.jpg)

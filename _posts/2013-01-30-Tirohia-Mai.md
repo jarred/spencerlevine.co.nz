@@ -9,10 +9,7 @@ categories: [exhibition]
 
 ## National Library of New Zealand
 
-New Zealand women won the vote 120 years ago. Tirohia Mai looks at where women
-stand now, how they got here, and how they see themselves in 2013. It celebrates
-the rich diversity of women and their contributions to making New Zealand what
-it is today and will be tomorrow.
+New Zealand women won the vote 120 years ago. Tirohia Mai looks at where women stand now, how they got here, and how they see themselves in 2013. It celebrates the rich diversity of women and their contributions to making New Zealand what it is today and will be tomorrow.
 
 Curated by Rosslyn Noonan and Ngahuia Te Awekotuku  
 Interactive by [bit by bit](http://www.bitbybit.io)

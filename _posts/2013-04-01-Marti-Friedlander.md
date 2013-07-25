@@ -2,7 +2,7 @@
 layout: project
 title: Marti Friedlander
 thumb: /images/Marti-Friedlander/AUP-MARTI-FRIEDLANDER-0.jpg
-categories: [Book]
+categories: [book]
 ---
 
 # Mrkusich

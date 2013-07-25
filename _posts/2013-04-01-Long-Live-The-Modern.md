@@ -3,6 +3,7 @@ layout: project
 title: Long Live The Modern
 thumb: /images/Long-Live-The-Modern/AUP-Long-Live-The-Modern-0.jpg
 categories: [book]
+award: true
 ---
 
 # Long Live The Modern
@@ -11,6 +12,10 @@ categories: [book]
 ## By Julia Gatley
 
 From houses, factories, bridges, and apartment blocks to chapels, motorways, and memorials, this pictorial history celebrates 180 iconic New Zealand buildings, sites, and neighborhoods, designed by many of the nation's most famous architects.
+
+> # specifications
+> 3 spot colour cover
+{.specifications}
 
 > # Awards
 > 2011 PANZ Book awards  
@@ -21,9 +26,7 @@ From houses, factories, bridges, and apartment blocks to chapels, motorways, and
 > Urbis 2009 
 {.awards}
 
-> # specifications
-> 3 spot colour cover
-{.specifications}
+
 
 ![](/images/Long-Live-The-Modern/AUP-Long-Live-The-Modern-1.jpg)
 ![](/images/Long-Live-The-Modern/AUP-Long-Live-The-Modern-2.jpg)

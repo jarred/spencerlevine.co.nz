@@ -2,12 +2,11 @@
 layout: project
 title: Over Under And Around
 thumb: /images/Over-Under-And-Around/enjoy-0.jpg
-categories: [catalogue]
+categories: [book]
 ---
 
 # Over Under And Around
 
-## Patricia Piccinni
 ## Enjoy Public Art Gallery
 
 Second Occasional Journal 

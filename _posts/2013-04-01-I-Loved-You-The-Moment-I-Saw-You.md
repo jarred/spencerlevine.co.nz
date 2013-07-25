@@ -12,9 +12,8 @@ categories: [book]
 
 A digital flâneur on high alert criss-crossing the complex urban landscape, Black has seen and loved the tender, sad, and often humorous details of life lived moment by moment on the streets of his home city. 82 photographs tell a story of Wellington.
 
-
 > # specifications
-> CMYK throughout. 104 pp.
+> CMYK throughout, 104 pages.
 {.specifications}
 
 ![](/images/I-Loved-You-The-Moment-I-Saw-You/VUP-ILYTMISU-1.jpg)

@@ -3,6 +3,7 @@ layout: project
 title: Brian Brake
 thumb: /images/Brian-Brake/brake-0.jpg
 categories: [book]
+award: true
 ---
 
 # Brian Brake: Lens on the World
@@ -12,9 +13,19 @@ categories: [book]
 
 The complete life and work of Brian Brake, New Zealand's best-known photographer.
 
-> # Specifications
-> CMYK throughout. 336pp.
+> # specifications
+> CMYK throughout, 336 pages.
 {.specifications}
+
+> # awards
+> Bronze
+> 2011 BEST design awards  
+> Editorial and Books
+> .  
+> Finalist  
+> 2011 NZ Post Book awards  
+> Illustrated non-fiction
+{.awards}
 
 ![](/images/Brian-Brake/brake-1.jpg)
 ![](/images/Brian-Brake/brake-2.jpg)

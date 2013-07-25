@@ -2,7 +2,8 @@
 layout: project
 title: New Zealand Fashion Design
 thumb: /images/New-Zealand-Fashion-Design/NZFD-0.jpg
-categories: [Book]
+categories: [book]
+award: true
 ---
 
 # New Zealand Fashion Design
@@ -13,10 +14,11 @@ categories: [Book]
 New Zealand Fashion Design celebrates New Zealand's top 25 contemporary fashion designers.
 
 > # specifications
-> CMYK throughout. 568pp
+> CMYK throughout, 568 pages.
 {.specifications}
 
 > # awards
+> Silver
 > 2011 BEST design awards  
 > Editorial and Books
 {.awards}

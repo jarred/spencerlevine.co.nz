@@ -6,7 +6,7 @@ categories: [music]
 ---
 
 # Whirimako Black
-##Tangihaku
+## Tangihaku
 
 > # specifications
 > 2 spot colour w/ gatefold

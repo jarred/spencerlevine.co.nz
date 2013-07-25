@@ -1,6 +1,6 @@
 --- 
 layout: project 
-title: The Black Seeds Solid Ground 
+title: The Black Seeds 
 thumb: /images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-0.jpg 
 categories: [music]
 ---

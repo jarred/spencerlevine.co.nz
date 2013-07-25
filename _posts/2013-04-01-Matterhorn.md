@@ -2,25 +2,12 @@
 layout: project
 title: Matterhorn
 thumb: /images/Matterhorn/matterhorn-0.jpg
-categories: [Music]
+categories: [music]
 ---
 
 # Matterhorn
 
 Gig posters for Matterhorn, Wellington
-
-> # specifications
-> 2 Spot colour cover
-> {.specifications}
-
-> # awards
-> 2010 PANZ Book awards  
-> Highly commended  
-> Best Illustrated book  
-> .  
-> 2010 NZ Post Book awards  
-> Finalist
-{.awards}
 
 ![](/images/Matterhorn/matterhorn-1.jpg)
 ![](/images/Matterhorn/matterhorn-2.jpg)

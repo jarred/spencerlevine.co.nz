@@ -13,7 +13,7 @@ categories: [book]
 The Evening Hours brings together new writing on Ben Cauchi’s practice with reproductions of over eighty of his photographs. Arriving from another time and place, yet thoroughly of the present – his use of the mid-nineteenth-century wet collodion photographic process is a means to question and undermine the certainties that we continue to invest in the photographic image.
 
 > # specifications
-> CMYK throughout. 128 pp.
+> CMYK throughout, 128 pages.
 {.specifications}
 
 ![](/images/the-evening-hours/cauchi-1.jpg)

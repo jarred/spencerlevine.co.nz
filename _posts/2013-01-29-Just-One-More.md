@@ -14,7 +14,7 @@ categories: [book]
 A collection of short stories just the right length for reading aloud to small children.
 
 > # specifications
-> CMYK cover w/ emboss, 92 pages.
+> CMYK cover w/ emboss. 92 pp.
 {.specifications}
 
 ![](/images/Just-One-More/Gecko-J1M-1.jpg)

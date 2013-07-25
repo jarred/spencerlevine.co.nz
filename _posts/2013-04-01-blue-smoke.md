@@ -3,6 +3,7 @@ layout: project
 title: Blue Smoke
 thumb: /images/Blue-Smoke/AUP-Blue-Smoke-0.jpg
 categories: [book]
+award: true
 ---
 
 # Blue Smoke
@@ -12,7 +13,11 @@ categories: [book]
 
 This illustrated history of popular music in New Zealand from World War I to the 1960s animates the people, places and sounds of a world we have lost, recounting how Maori and Pakeha New Zealanders developed a distinctive melody, rhythm and voice.
 
-> # Awards
+> # specifications
+> 3 spot colour cover w/ removable belly band
+{.specifications}
+
+> # awards
 > 2011 PANZ Book awards  
 > Best Illustrated Book  
 > Winner  
@@ -27,9 +32,7 @@ This illustrated history of popular music in New Zealand from World War I to the
 > Editorial and Books  
 {.awards}
 
-> # Specifications
-> 3 spot colour cover w/ removable belly band
-{.specifications}
+
 
 ![](/images/Blue-Smoke/AUP-Blue-Smoke-1.jpg)
 ![](/images/Blue-Smoke/AUP-Blue-Smoke-2.jpg)

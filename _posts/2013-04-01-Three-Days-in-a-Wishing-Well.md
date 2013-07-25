@@ -9,7 +9,6 @@ categories: [book]
 
 ## By Kerrin P. Sharpe
 ## Victoria University Press
- 
 
 'We all carry in our heads private landscapes – the geography of our youth refracted by memory, changing hopes and desires, personal mythology, family history. Newton’s songbook re-examines and revitalises half-forgotten possibilities.’
 Iain Sharp

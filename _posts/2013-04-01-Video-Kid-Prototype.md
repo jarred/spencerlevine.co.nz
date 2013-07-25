@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Video-Kid-Prototype
+title: Video Kid Prototype
 thumb: /images/Video-Kid-Prototype/CD-Video-Kid-prototype-0.jpg
 categories: [music]
 ---
