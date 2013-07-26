@@ -9,7 +9,7 @@ categories: [book]
 
 ## Te Papa Press
 
-Forget old-fashioned colouring books! Let the world of New Zealand art unleash childrenÕs imaginations.  As well as highlights from the National Art Collection reproduced in full colour, there are new works for kids by leading contemporary artists, specially commissioned for this book. 
+Forget old-fashioned colouring books! Let the world of New Zealand art unleash children's imaginations.  As well as highlights from the National Art Collection reproduced in full colour, there are new works for kids by leading contemporary artists, specially commissioned for this book. 
 
 > # specifications
 > 3 spot colour cover, 2 spot colour interior, 184 pages.
