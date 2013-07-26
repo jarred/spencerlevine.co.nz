@@ -54,6 +54,11 @@
 						color: #D57962;
 					}
 				}
+				@media screen and (max-width: 500px) {
+					p{
+						display: block;
+					}
+				}
 				&:hover{
 					p{
 						display: block;

@@ -13,6 +13,7 @@
         this.$el = $(this.el);
         this.updateVariables();
         this.render();
+        return;
         $(document).bind('resize', this.updateVariables);
         $(document).bind('mousemove', this.updateEye);
         return $(document).bind('touchmove', function(e) {

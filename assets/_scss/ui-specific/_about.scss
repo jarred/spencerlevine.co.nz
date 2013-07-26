@@ -13,6 +13,9 @@
 		bottom: 0px;
 		background-size: cover;
 		background-position: center right;
+		@media screen and (max-width: 500px) {
+			display: none;
+		}
 	}
 	.page{
 		position: absolute;
@@ -21,6 +24,13 @@
 		left: 16px;
 		top: 150px;
 		width: 300px;
+		@media screen and (max-width: 500px) {
+			position: static;
+			width: auto;
+			left: auto;
+			top: auto;
+			margin: 150px 16px 20px 16px;
+		}
 	}
 	.credit{
 		position: absolute;
@@ -31,6 +41,12 @@
 		color: #AAA;
 		a{
 			color: #AAA;
+		}
+		@media screen and (max-width: 500px) {
+			position: static;
+			left: auto;
+			bottom: auto;
+			padding: 16px;
 		}
 	}
 }

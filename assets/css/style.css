@@ -5,11 +5,6 @@ body {
   background-color: #FFF;
 }
 
-/* line 14, ../_scss/style.scss */
-.clearfix {
-  clear: both;
-}
-
 /* Placeholder text
   ========================================================================== */
 /* Box Model
@@ -694,11 +689,17 @@ table {
 #project td.description .content blockquote.specifications h1, #project td.description .content blockquote.specifications p {
   color: #D57962;
 }
-/* line 58, ../_scss/ui-specific/_project.scss */
+@media screen and (max-width: 500px) {
+  /* line 58, ../_scss/ui-specific/_project.scss */
+  #project td.description .content blockquote p {
+    display: block;
+  }
+}
+/* line 63, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover p {
   display: block;
 }
-/* line 61, ../_scss/ui-specific/_project.scss */
+/* line 66, ../_scss/ui-specific/_project.scss */
 #project td.description .content blockquote:hover h1 {
   display: none;
 }
@@ -708,17 +709,17 @@ table {
     padding: 0px;
     margin: 127px 16px 16px 16px;
   }
-  /* line 71, ../_scss/ui-specific/_project.scss */
+  /* line 76, ../_scss/ui-specific/_project.scss */
   #project tr, #project td {
     display: block;
     margin-bottom: 16px;
   }
-  /* line 76, ../_scss/ui-specific/_project.scss */
+  /* line 81, ../_scss/ui-specific/_project.scss */
   #project td.description .content {
     width: auto;
     margin: 0px;
   }
-  /* line 81, ../_scss/ui-specific/_project.scss */
+  /* line 86, ../_scss/ui-specific/_project.scss */
   #project img {
     width: 100%;
     display: block;
@@ -779,13 +780,13 @@ table {
 }
 /* line 44, ../_scss/ui-specific/_projects.scss */
 #projects .project .info .award {
+  font: 400 13px/20px "Helvetica Neue", Sans-Serif;
   position: absolute;
-  bottom: 20px;
-  left: 16px;
-  color: #111111;
+  bottom: 16px;
+  left: 20px;
+  color: rgba(17, 17, 17, 0.3);
   margin: 0px;
   padding: 0px;
-  font: 400 20px/1 "Helvetica Neue", Sans-Serif;
 }
 @media screen and (max-width: 500px) {
   /* line 44, ../_scss/ui-specific/_projects.scss */
@@ -802,27 +803,29 @@ table {
   #projects {
     margin-right: 0px;
     text-align: center;
+    position: static;
   }
-  /* line 66, ../_scss/ui-specific/_projects.scss */
+  /* line 67, ../_scss/ui-specific/_projects.scss */
   #projects .project {
+    position: static;
     float: none;
     clear: both;
     height: auto;
     margin: 0px 16px 40px 0px;
   }
-  /* line 71, ../_scss/ui-specific/_projects.scss */
+  /* line 73, ../_scss/ui-specific/_projects.scss */
   #projects .project .info {
     display: block;
     position: static;
     background-color: #FFF;
     margin-top: 10px;
   }
-  /* line 76, ../_scss/ui-specific/_projects.scss */
+  /* line 78, ../_scss/ui-specific/_projects.scss */
   #projects .project .info h2, #projects .project .info h3 {
     padding: 0px;
     margin-bottom: 4px;
   }
-  /* line 81, ../_scss/ui-specific/_projects.scss */
+  /* line 83, ../_scss/ui-specific/_projects.scss */
   #projects .project img {
     height: auto;
     max-width: 100%;
@@ -851,7 +854,13 @@ table {
   background-size: cover;
   background-position: center right;
 }
-/* line 17, ../_scss/ui-specific/_about.scss */
+@media screen and (max-width: 500px) {
+  /* line 8, ../_scss/ui-specific/_about.scss */
+  #about .bg {
+    display: none;
+  }
+}
+/* line 20, ../_scss/ui-specific/_about.scss */
 #about .page {
   position: absolute;
   z-index: 40;
@@ -860,7 +869,17 @@ table {
   top: 150px;
   width: 300px;
 }
-/* line 25, ../_scss/ui-specific/_about.scss */
+@media screen and (max-width: 500px) {
+  /* line 20, ../_scss/ui-specific/_about.scss */
+  #about .page {
+    position: static;
+    width: auto;
+    left: auto;
+    top: auto;
+    margin: 150px 16px 20px 16px;
+  }
+}
+/* line 35, ../_scss/ui-specific/_about.scss */
 #about .credit {
   position: absolute;
   bottom: 16px;
@@ -869,7 +888,21 @@ table {
   font: 400 12px/12px "Helvetica Neue", Sans-Serif;
   color: #AAA;
 }
-/* line 32, ../_scss/ui-specific/_about.scss */
+/* line 42, ../_scss/ui-specific/_about.scss */
 #about .credit a {
   color: #AAA;
+}
+@media screen and (max-width: 500px) {
+  /* line 35, ../_scss/ui-specific/_about.scss */
+  #about .credit {
+    position: static;
+    left: auto;
+    bottom: auto;
+    padding: 16px;
+  }
+}
+
+/* line 22, ../_scss/style.scss */
+.clearfix {
+  clear: both;
 }

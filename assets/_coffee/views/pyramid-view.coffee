@@ -9,6 +9,7 @@ define ['backbone', 'underscore', 'two'], (Backbone, _, Two) ->
 			@$el = $(@el)
 			@updateVariables()
 			@render()
+			return
 			$(document).bind 'resize', @updateVariables
 			$(document).bind 'mousemove', @updateEye
 			$(document).bind 'touchmove', (e) =>

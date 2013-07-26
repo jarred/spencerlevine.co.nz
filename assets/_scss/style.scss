@@ -11,10 +11,6 @@ $margin: 16px;
 $black: #111;
 $grey: #AAA;
 
-.clearfix{
-	clear: both;
-}
-
 @import 'helpers/_misc';
 @import 'ui-specific/_preloader';
 @import 'reset/_normalize';
@@ -22,3 +18,7 @@ $grey: #AAA;
 @import 'ui-specific/_project';
 @import 'ui-specific/_projects';
 @import 'ui-specific/_about';
+
+.clearfix{
+	clear: both;
+}
