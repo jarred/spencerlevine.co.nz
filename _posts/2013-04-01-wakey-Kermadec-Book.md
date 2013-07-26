@@ -13,7 +13,7 @@ categories: [book]
 The Pew Environment Group takes the Kermadec exhibition and conservation message from New Zealand to Easter Island to Santiago.
 
 > # specifications
-> CMYK w/ Spot colour throughout, 112 pages.
+> CMYK w/ spot colour throughout, 112 pages.
 {.specifications}
 
 ![](/images/Wakey/Kermadec-Wakey-1.jpg)

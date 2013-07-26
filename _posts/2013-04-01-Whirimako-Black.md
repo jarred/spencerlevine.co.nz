@@ -9,7 +9,7 @@ categories: [music]
 ## Tangihaku
 
 > # specifications
-> 2 Spot colour 
+> 2 spot colour 
 {.specifications}
 
 ![](/images/Whirimako-Black/CD-Whirimako-Black-1.jpg)
