@@ -1,5 +1,4 @@
 #project{
-	padding: 0px 20px 20px $margin;
 	margin-top: 95px + ($margin * 2);
 	z-index: 100;
 	background-color: #FFF;
@@ -8,16 +7,25 @@
 		vertical-align: top;
 		text-align: left;
 	}
+	.image{
+		img{
+			display: block;
+		}
+	}
 	td.description{
 		.content{
 			width: 220px;
 			margin: 0px 20px;
-			h1, h2{
-				font: 600 13px/20px $sans; 
+			h2{
+				font: 600 13px/20px $sans;
+				margin: 0px;
 			}
 			h1{
 				font: 600 18px/20px $sans;
 				color: $grey;
+			}
+			h2 + p{
+				margin-top: $margin;
 			}
 			p{
 				font: 400 13px/20px $sans;

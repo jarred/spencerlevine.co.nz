@@ -1,4 +1,4 @@
-define ['backbone', 'underscore', 'two'], (Backbone, _, Two) ->
+define [], () ->
 	PyramidView = Backbone.View.extend
 
 		width: 120

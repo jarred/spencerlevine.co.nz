@@ -1,8 +1,8 @@
 require.config
-	baseUrl: '/assets/js/libs'
+	baseUrl: '/assets/js'
 	waitSeconds: 10
 	paths:
-		app: '../app'
+		app: './app'
 		jquery: 'jquery-1.9.1'
 		two: 'two.min'
 	shim:
@@ -21,7 +21,7 @@ require.config
 			exports: 'Two'
 
 # load the stack and init the app.
-require ['jquery', 'backbone', 'underscore', 'history', 'two'], () ->
+require ['libs'], () ->
 
 	views = [
 		'app/views/pyramid-view'

@@ -1,4 +1,4 @@
-define ['backbone', 'underscore'], (Backbone, _) ->
+define [], () ->
 	PreloaderView = Backbone.View.extend
 
 		initialize: ->

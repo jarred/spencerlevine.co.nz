@@ -1,4 +1,4 @@
-define ['backbone', 'underscore'], (Backbone, _) ->
+define [], () ->
 	ProjectView = Backbone.View.extend
 
 		initialize: ->
