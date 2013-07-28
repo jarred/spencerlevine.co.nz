@@ -7,18 +7,21 @@
 	background-color: $black;
 	z-index: 500;
 	.lines{
-			position: absolute;
-			left: -300px;
-			top: 0px;
-			right: 0px;
-			bottom: 0px;
-			background: $black url('/assets/img/preloader-bg.png') repeat 0px 0px;
-			background-attachment: fixed;
-			-moz-animation: slide 1s infinite linear;
-		  -o-animation: slide 1s infinite linear;
-		  -webkit-animation: slide 1s infinite linear;
-		  animation: slide 1s infinite linear;
-		}
+		position: absolute;
+		left: -300px;
+		top: 0px;
+		right: 0px;
+		bottom: 0px;
+		background: $black url('/assets/img/preloader-bg.png') repeat 0px 0px;
+		background-attachment: fixed;
+		-moz-animation: slide 1s infinite linear;
+	  -o-animation: slide 1s infinite linear;
+	  -webkit-animation: slide 1s infinite linear;
+	  animation: slide 1s infinite linear;
+	}
+	html.lt-ie9 &{
+		display: none !important;
+	}
 }
 
 @mixin frames{

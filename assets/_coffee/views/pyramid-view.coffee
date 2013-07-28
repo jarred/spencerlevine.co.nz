@@ -5,7 +5,7 @@ SL.Views.PyramidView = Backbone.View.extend
 	
 	initialize: ->
 		_.bindAll @
-		@$el = $(@el)
+		return if $('html').hasClass 'lt-ie9'
 		@updateVariables()
 		@render()
 		return
@@ -48,7 +48,6 @@ SL.Views.PyramidView = Backbone.View.extend
 		@pupil.destination = new Two.Vector()
 
 		@pupil.bind 'update', () =>
-			console.log 'update pupil'
 			@pupil.translation.x += (@pupil.destination.x - @pupil.translation.x) * 0.625
 			@pupil.translation.y += (@pupil.destination.y - @pupil.translation.y) * 0.625
 

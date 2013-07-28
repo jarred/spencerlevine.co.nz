@@ -80,4 +80,7 @@
 	display: block;
 	width: 120px;
 	height: 95px;
+	html.lt-ie9 &{
+		background: url('/assets/img/ie-pyramid.png') no-repeat top left;
+	}
 }
