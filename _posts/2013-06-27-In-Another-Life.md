@@ -16,7 +16,7 @@ In Another Life is all about possibilities. In another life it would be differen
 
 > # specifications
 > CMYK throughout, 48 pages. 
-{.specifications}
+{: .specifications}
 
 ![](/images/In-Another-Life/piccinni-1.jpg)
 ![](/images/In-Another-Life/piccinni-2.jpg)

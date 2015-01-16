@@ -10,7 +10,7 @@ categories: [music]
 
 > # specifications
 > CMYK 
-{.specifications}
+{: .specifications}
 
 ![](/images/Video-Kid-Prototype/CD-Video-Kid-prototype-1.jpg)
 ![](/images/Video-Kid-Prototype/CD-Video-Kid-prototype-2.jpg)

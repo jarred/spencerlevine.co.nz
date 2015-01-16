@@ -14,7 +14,7 @@ Beginning in 1976, deaths from asthma in New Zealand rose suddenly and dramatica
 
 > # Specifications
 > 1 spot colour cover w/ emboss
-{.specifications}
+{: .specifications}
 
 ![](/images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-1.jpg)
 ![](/images/Adverse-Reactions/AUP-ADVERSE-REACTIONS-2.jpg)

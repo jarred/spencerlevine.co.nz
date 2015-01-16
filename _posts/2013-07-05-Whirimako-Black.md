@@ -10,7 +10,7 @@ categories: [music]
 
 > # specifications
 > 2 spot colour 
-{.specifications}
+{: .specifications}
 
 ![](/images/Whirimako-Black/CD-Whirimako-Black-1.jpg)
 ![](/images/Whirimako-Black/CD-Whirimako-Black-2.jpg)

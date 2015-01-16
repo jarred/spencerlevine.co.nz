@@ -13,7 +13,7 @@ Forget old-fashioned colouring books! Let the world of New Zealand art unleash c
 
 > # specifications
 > 3 spot colour cover, 2 spot colour interior, 184 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/Childrens/te-papa-childrens-1.jpg)
 ![](/images/Childrens/te-papa-childrens-2.jpg)

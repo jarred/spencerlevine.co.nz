@@ -14,7 +14,7 @@ A clear-eyed, funny, and off-beat novel about a girl making sense of a baffling 
 
 > # specifications
 > CMYK cover
-{.specifications}
+{: .specifications}
 
 ![](/images/The-Day-My-Father-Became-a-Bush/TDMFBAB-1.jpg)
 ![](/images/The-Day-My-Father-Became-a-Bush/TDMFBAB-2.jpg)

@@ -14,7 +14,7 @@ David Trubridge is New Zealand's only internationally recognized furniture desig
 
 > # Specifications
 > CMYK cover
-{.specifications}
+{: .specifications}
 
 ![](/images/Trubridge/trubridge-1.jpg)
 ![](/images/Trubridge/trubridge-2.jpg)

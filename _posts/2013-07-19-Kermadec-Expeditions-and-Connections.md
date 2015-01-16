@@ -14,7 +14,7 @@ Expeditions and Connections is an exhibition at the National Library of New Zeal
 
 > # specifications
 > lambda outputs, vinyl, audio-visual and artworks
-{.specifications}
+{: .specifications}
 
 ![](/images/Kermadec-Exhibition/nat-lib-set-1.jpg)
 ![](/images/Kermadec-Exhibition/nat-lib-set-2.jpg)

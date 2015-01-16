@@ -14,7 +14,7 @@ The Pew Environment Group takes the Kermadec exhibition and conservation message
 
 > # specifications
 > CMYK w/ spot colour throughout, 112 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/Wakey/Kermadec-Wakey-1.jpg)
 ![](/images/Wakey/Kermadec-Wakey-2.jpg)

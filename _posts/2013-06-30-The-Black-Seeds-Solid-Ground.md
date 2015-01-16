@@ -10,7 +10,7 @@ categories: [music]
 
 > # specifications 
 > CMYK w/ gatefold  
-{.specifications}
+{: .specifications}
 
 ![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-1.jpg)
 ![](/images/The-Black-Seeds-Solid-Ground/CD-Black-seeds-solid-2.jpg)

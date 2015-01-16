@@ -14,7 +14,7 @@ The House that Jack Built is a Gecko Press revival of an award-winning, modern N
 
 > # specifications
 > CMYK throughout, 36 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/The-House-That-Jack-Built/gecko-jack-1.jpg)
 ![](/images/The-House-That-Jack-Built/gecko-jack-2.jpg)

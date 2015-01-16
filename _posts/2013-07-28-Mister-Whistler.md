@@ -16,13 +16,13 @@ Absentminded Mister Whistler always has a song in his head and a dance in his fe
 
 > # specifications
 > CMYK throughout, 32 pages.
-{.specifications}
+{: .specifications}
 
 > # Awards
 > Winner 
 > 2013 NZ Post Children's Book awards  
 > Best Illustrated book
-{.awards}
+{: .awards}
 
 ![](/images/Mister-Whistler/gecko-whistler-1.jpg)
 ![](/images/Mister-Whistler/gecko-whistler-2.jpg)

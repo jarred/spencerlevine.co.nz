@@ -14,7 +14,7 @@ A digital flâneur on high alert criss-crossing the complex urban landscape, Bla
 
 > # specifications
 > CMYK throughout, 104 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/I-Loved-You-The-Moment-I-Saw-You/VUP-ILYTMISU-1.jpg)
 ![](/images/I-Loved-You-The-Moment-I-Saw-You/VUP-ILYTMISU-2.jpg)

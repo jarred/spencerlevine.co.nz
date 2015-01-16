@@ -16,7 +16,7 @@ In Dark Sparring, Selina Tusitala Marsh combats family loss with all the techniq
 
 > # Specifications
 > 3 spot colour cover w/ UV overgloss
-{.specifications}
+{: .specifications}
 
 ![](/images/Dark-Sparring/aup-dark-sparring-1.jpg)
 ![](/images/Dark-Sparring/aup-dark-sparring-2.jpg)

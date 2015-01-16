@@ -14,7 +14,7 @@ Aotearoa New Zealand is home to a large Pasifika population. This illustrated co
 
 > # specifications
 > CMYK throughout, 392 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/Tangata-O-Le-Moana/TOLM-spread-1.jpg)
 ![](/images/Tangata-O-Le-Moana/TOLM-spread-2.jpg)

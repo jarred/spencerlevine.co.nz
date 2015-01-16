@@ -15,7 +15,7 @@ Over Under And Around is the second in Enjoy Gallery’s series of ‘occasional
 
 > # specifications
 > 2 spot colour throughout. 32 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/Over-Under-And-Around/enjoy-1.jpg)
 ![](/images/Over-Under-And-Around/enjoy-2.jpg)

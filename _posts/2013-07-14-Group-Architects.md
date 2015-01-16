@@ -15,13 +15,13 @@ Group Architects – “the Group” for short – are New Zealand’s most myth
 
 > # Specifications
 > 3 spot colour cover w/ UV overgloss
-{.specifications}
+{: .specifications}
 
 > # Awards
 > 2011 PANZ Book awards  
 > Best Illustrated book  
 > Highly Commended
-{.awards}
+{: .awards}
 
 ![](/images/Group-Architects/AUP-Group-Architects-1.jpg)
 ![](/images/Group-Architects/AUP-Group-Architects-2.jpg)

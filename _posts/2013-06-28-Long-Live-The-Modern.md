@@ -15,7 +15,7 @@ From houses, factories, bridges, and apartment blocks to chapels, motorways, and
 
 > # specifications
 > 3 spot colour cover
-{.specifications}
+{: .specifications}
 
 > # Awards
 > 2011 PANZ Book awards  
@@ -24,7 +24,7 @@ From houses, factories, bridges, and apartment blocks to chapels, motorways, and
 > .  
 > Best of Design (Book)  
 > Urbis 2009 
-{.awards}
+{: .awards}
 
 
 

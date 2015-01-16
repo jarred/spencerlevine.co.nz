@@ -17,7 +17,7 @@ Aniwaniwa is a collection of wakahuia with internal projections and sound compon
 
 > # Specifications
 > CMYK w/ UV overgloss
-{.specifications}
+{: .specifications}
 
 > # Awards  
 > Gold Medal  

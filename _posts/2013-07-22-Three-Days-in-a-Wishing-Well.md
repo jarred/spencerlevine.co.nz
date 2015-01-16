@@ -15,7 +15,7 @@ Iain Sharp
 
 > # specifications
 > CMYK
-{.specifications}
+{: .specifications}
 
 ![](/images/Three-Days-in-a-Wishing-Well/wish-well-1.jpg)
 ![](/images/Three-Days-in-a-Wishing-Well/wish-well-2.jpg)

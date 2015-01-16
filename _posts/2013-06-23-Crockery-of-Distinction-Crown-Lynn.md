@@ -15,7 +15,7 @@ From select examples of Crown Lynn’s mass produced lines, through to the self-
 
 > # specifications
 > CMYK throughout, 32 pages w/ gatefold. 
-{.specifications}
+{: .specifications}
 
 ![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-1.jpg)
 ![](/images/Crockery-of-Distinction-Crown-Lynn/crown-lynn-2.jpg)

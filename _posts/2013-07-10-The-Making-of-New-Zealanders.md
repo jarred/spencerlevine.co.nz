@@ -14,7 +14,7 @@ The Making of New Zealanders is an account of how transplanted Britons and other
 
 > # specifications
 > 2 spot colour cover w/ metallic gold
-{.specifications}
+{: .specifications}
 
 ![](/images/The-Making-of-New-Zealanders/AUP-making-of-1.jpg)
 ![](/images/The-Making-of-New-Zealanders/AUP-making-of-2.jpg)

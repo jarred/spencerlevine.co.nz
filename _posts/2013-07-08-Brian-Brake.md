@@ -15,7 +15,7 @@ The complete life and work of Brian Brake, New Zealand's best-known photographer
 
 > # specifications
 > CMYK throughout, 336 pages.
-{.specifications}
+{: .specifications}
 
 > # awards
 > Bronze
@@ -25,7 +25,7 @@ The complete life and work of Brian Brake, New Zealand's best-known photographer
 > Finalist  
 > 2011 NZ Post Book awards  
 > Illustrated non-fiction
-{.awards}
+{: .awards}
 
 ![](/images/Brian-Brake/brake-1.jpg)
 ![](/images/Brian-Brake/brake-2.jpg)

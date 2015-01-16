@@ -15,7 +15,7 @@ Iain Sharp
 
 > # specifications
 > CMYK
-{.specifications}
+{: .specifications}
 
 ![](/images/Family-Songbook/fam-song-1.jpg)
 ![](/images/Family-Songbook/fam-song-2.jpg)

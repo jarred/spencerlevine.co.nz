@@ -15,13 +15,13 @@ New Zealand Fashion Design celebrates New Zealand's top 25 contemporary fashion 
 
 > # specifications
 > CMYK throughout, 568 pages.
-{.specifications}
+{: .specifications}
 
 > # awards
 > Silver
 > 2011 BEST design awards  
 > Editorial and Books
-{.awards}
+{: .awards}
 
 ![](/images/New-Zealand-Fashion-Design/NZFD-1.jpg)
 ![](/images/New-Zealand-Fashion-Design/NZFD-2.jpg)

@@ -14,7 +14,7 @@ The Evening Hours brings together new writing on Ben Cauchi’s practice with re
 
 > # specifications
 > CMYK throughout, 128 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/the-evening-hours/cauchi-1.jpg)
 ![](/images/the-evening-hours/cauchi-2.jpg)

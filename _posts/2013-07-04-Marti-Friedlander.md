@@ -14,7 +14,7 @@ Acclaimed photographer Marti Friedlander has been observing the lives of New Zea
 
 > # specifications
 > 2 spot colour cover
-{.specifications}
+{: .specifications}
 
 > # Awards
 > 2010 PANZ Book awards  
@@ -23,7 +23,7 @@ Acclaimed photographer Marti Friedlander has been observing the lives of New Zea
 >   
 > 2010 NZ Post Book awards  
 > Finalist
-{.awards}
+{: .awards}
 
 ![](/images/Marti-Friedlander/AUP-MARTI-FRIEDLANDER-1.jpg)
 ![](/images/Marti-Friedlander/AUP-MARTI-FRIEDLANDER-2.jpg)

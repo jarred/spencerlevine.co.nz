@@ -15,12 +15,12 @@ Ian Athfield is one of New Zealand’s best, and best-known, architects. And sin
 
 > Specifications
 > 3 spot colour cover w/ UV overgloss
-{.specifications}
+{: .specifications}
 
 > # Awards  
 Bronze 
 Best Awards 2012
-{.awards}
+{: .awards}
 
 ![](/images/Athfield-Architects/AUP-ath-1.jpg)
 ![](/images/Athfield-Architects/AUP-ath-2.jpg)

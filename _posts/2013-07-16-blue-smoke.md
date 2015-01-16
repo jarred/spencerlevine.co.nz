@@ -15,7 +15,7 @@ This illustrated history of popular music in New Zealand from World War I to the
 
 > # specifications
 > 3 spot colour cover w/ removable belly band
-{.specifications}
+{: .specifications}
 
 > # awards
 > 2011 PANZ Book awards  
@@ -30,7 +30,7 @@ This illustrated history of popular music in New Zealand from World War I to the
 > Bronze  
 > 2011 BEST design awards  
 > Editorial and Books  
-{.awards}
+{: .awards}
 
 
 

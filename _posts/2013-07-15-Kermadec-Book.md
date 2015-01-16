@@ -14,7 +14,7 @@ In May 2011 the Kermadec initiative of the Pew Environment Group invited nine ar
 
 > # specifications
 > CMYK throughout, 144 pages.
-{.specifications}
+{: .specifications}
 
 ![](/images/Kermadec-Book/kermadec-1.jpg)
 ![](/images/Kermadec-Book/kermadec-2.jpg)
