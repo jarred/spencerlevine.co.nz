@@ -9,6 +9,7 @@ award: true
 # Group Architects
 
 ## Auckland University Press
+
 ## By Julia Gatley
 
 Group Architects – “the Group” for short – are New Zealand’s most mythologised firm of mid-twentieth century architects. This is the first full assessment of the firm and it follows their work from the early collective through all its various incarnations until 1968.

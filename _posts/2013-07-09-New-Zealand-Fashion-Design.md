@@ -9,6 +9,7 @@ award: true
 # New Zealand Fashion Design
 
 ## Te Papa Press
+
 ## By Angela Lassig
 
 New Zealand Fashion Design celebrates New Zealand's top 25 contemporary fashion designers.

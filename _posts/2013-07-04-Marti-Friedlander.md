@@ -8,6 +8,7 @@ categories: [book]
 # Marti Friedlander
 
 ## Auckland University Press
+
 ## By Leonard Bell
 
 Acclaimed photographer Marti Friedlander has been observing the lives of New Zealanders for over 50 years. Her empathetic scrutiny draws out the essence of her subjects, capturing the key human dynamics of conflict, ambivalence, anger and warmth.

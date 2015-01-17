@@ -8,6 +8,7 @@ categories: [book]
 # Vertical Living
 
 ## Auckland University Press
+
 ## By Julia Gatley & Paul Walker
 
 Vertical Living offers a history of urban Wellington from the 1940s to the 1990s and beyond. 

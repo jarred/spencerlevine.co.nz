@@ -8,6 +8,7 @@ categories: [book]
 # I Loved You The Moment I Saw You
 
 ## Peter Black
+
 ## Victoria University Press
 
 A digital flâneur on high alert criss-crossing the complex urban landscape, Black has seen and loved the tender, sad, and often humorous details of life lived moment by moment on the streets of his home city. 82 photographs tell a story of Wellington.

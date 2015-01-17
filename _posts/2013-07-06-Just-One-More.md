@@ -8,7 +8,9 @@ categories: [book]
 # Just One More
 
 ## Gecko Press
+
 ## By Joy Cowley
+
 ## Illustrated by Gavin Bishop
 
 A collection of short stories just the right length for reading aloud to small children.

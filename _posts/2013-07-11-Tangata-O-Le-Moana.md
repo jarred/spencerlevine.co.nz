@@ -8,6 +8,7 @@ categories: [book]
 # Tangata O Le Moana
 
 ## Te Papa Press
+
 ## New Zealand and the People of the Pacific
 
 Aotearoa New Zealand is home to a large Pasifika population. This illustrated collection of essays is the first of its kind to tell their stories – from the legendary feats of the ancestors of modern Māori, to the politically explosive dawn raids of the 1970s, and beyond.

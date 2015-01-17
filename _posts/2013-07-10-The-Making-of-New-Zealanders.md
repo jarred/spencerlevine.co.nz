@@ -8,6 +8,7 @@ categories: [book]
 The Making of New Zealanders
 
 ## Auckland University Press
+
 ## By Ron Palenski
 
 The Making of New Zealanders is an account of how transplanted Britons and others turned themselves into New Zealanders, a distinct group of people with their own songs and sports, symbols and opinions, political traditions and sense of self. 

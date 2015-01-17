@@ -8,6 +8,7 @@ categories: [book]
 # Kermadec: 9 Artists explore the South Pacific
 
 ## Tauranga Art Gallery
+
 ## Pew Environment Group
 
 In May 2011 the Kermadec initiative of the Pew Environment Group invited nine artists to join them on a voyage through the Kermadec region of New Zealand. As seariders on HMNZS Otago, the Kermadec artists voyaged from Auckland to Raoul Island and then on to Tonga.

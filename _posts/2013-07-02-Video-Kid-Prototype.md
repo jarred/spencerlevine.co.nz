@@ -6,6 +6,7 @@ categories: [music]
 ---
 
 # Video Kid
+
 ## Prototype
 
 > # specifications

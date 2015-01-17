@@ -6,7 +6,8 @@ categories: [music]
 ---
 
 # The Black Seeds 
-## Solid Ground
+
+## Solid Ground  
 
 > # specifications 
 > CMYK w/ gatefold  

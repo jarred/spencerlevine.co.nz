@@ -9,6 +9,7 @@ award: true
 # Long Live The Modern
 
 ## Auckland University Press
+
 ## By Julia Gatley
 
 From houses, factories, bridges, and apartment blocks to chapels, motorways, and memorials, this pictorial history celebrates 180 iconic New Zealand buildings, sites, and neighborhoods, designed by many of the nation's most famous architects.
@@ -25,7 +26,6 @@ From houses, factories, bridges, and apartment blocks to chapels, motorways, and
 > Best of Design (Book)  
 > Urbis 2009 
 {: .awards}
-
 
 
 ![](/images/Long-Live-The-Modern/AUP-Long-Live-The-Modern-1.jpg)

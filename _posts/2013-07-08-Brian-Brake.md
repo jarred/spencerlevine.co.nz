@@ -9,6 +9,7 @@ award: true
 # Brian Brake: Lens on the World
 
 ## Te Papa Press
+
 ## Edited by Athol McCredie
 
 The complete life and work of Brian Brake, New Zealand's best-known photographer.

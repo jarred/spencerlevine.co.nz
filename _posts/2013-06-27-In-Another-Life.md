@@ -8,6 +8,7 @@ categories: [book]
 # In Another Life
 
 ## Patricia Piccinni
+
 ## City Gallery Wellington
 
 Exhibition catalogue

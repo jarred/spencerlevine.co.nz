@@ -33,7 +33,7 @@ SL.Views.PyramidView = Backbone.View.extend
 
 		# pyramid
 		@pyramid = @two.makePolygon @width / 2, 0, @width, @height, 0, @height, false
-		@pyramid.fill = 'rgb(247, 237, 16)'
+		@pyramid.fill = '#cc6600'
 		@pyramid.noStroke()
 
 		# eye bg

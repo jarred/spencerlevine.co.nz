@@ -8,6 +8,7 @@ categories: [exhibition]
 # Kermadec: Expeditions and Connections
 
 ## National Library of New Zealand 
+
 ## Pew Environment Group
 
 Expeditions and Connections is an exhibition at the National Library of New Zealand, it provides a contextual look at the Kermadecs, and looks at themes of history and environment. An extension of the Kermadec book, the exhibition has an educational focus, and is supported with collateral.

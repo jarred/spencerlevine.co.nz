@@ -8,6 +8,7 @@ categories: [book]
 # Kermadec: Art Across The Pacific
 
 ## MAC Gallery Santiago 
+
 ## Pew Environment Group
 
 The Pew Environment Group takes the Kermadec exhibition and conservation message from New Zealand to Easter Island to Chile.

@@ -9,6 +9,7 @@ award: true
 # Blue Smoke
 
 ## Auckland University Press
+
 ## By Chris Bourke
 
 This illustrated history of popular music in New Zealand from World War I to the 1960s animates the people, places and sounds of a world we have lost, recounting how Maori and Pakeha New Zealanders developed a distinctive melody, rhythm and voice.
