@@ -17,6 +17,19 @@ Creamy Psychology surveys Yvonne Todd’s work, from her earliest work in the la
 > CYMK w/ Metallic cover, 260 pages
 {: .specifications}
 
+> # awards
+> 2015 PANZ Book awards  
+> Best Illustrated Book  
+> Highly Commended  
+> . 
+> 2015 New Zealand Photo Book awards  
+> Trade Published  
+> Highly Commended 
+> . 
+> 2015 Best awards  
+> Editorial and Books  
+> Finalist 
+
 ![](/images/Creamy-Psychology/YT-1.jpg)
 ![](/images/Creamy-Psychology/YT-2.jpg)
 ![](/images/Creamy-Psychology/YT-3.jpg)

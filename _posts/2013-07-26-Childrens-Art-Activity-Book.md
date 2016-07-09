@@ -15,6 +15,12 @@ Forget old-fashioned colouring books! Let the world of New Zealand art unleash c
 > 3 spot colour cover, 2 spot colour interior, 184 pages.
 {: .specifications}
 
+> # awards
+> 2014 MAPDA awards  
+> Childrens book 
+> Winner  
+> . 
+
 ![](/images/Childrens/te-papa-childrens-1.jpg)
 ![](/images/Childrens/te-papa-childrens-2.jpg)
 ![](/images/Childrens/te-papa-childrens-3.jpg)
