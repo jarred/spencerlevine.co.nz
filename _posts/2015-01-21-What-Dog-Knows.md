@@ -9,7 +9,7 @@ categories: [book]
 
 ## Gecko Press
 
-##  Sylvia Vanden Heede
+##  by Sylvia Vanden Heede
 
 A fresh and funny mix of story and non-fiction for inquisitive readers that covers the touchstones of childhood obsession: robots, knights, dinosaurs, rockets and more.
 

@@ -9,7 +9,7 @@ categories: [book]
 
 ## Auckland University Press
 
-## Chris Price
+## by Chris Price
 
 Beside Herself plays with character, and with language, and with the way the one works on the other. Pronouns and personae shift and dance in this book in the same way that meanings do – unexpectedly.
 

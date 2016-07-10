@@ -9,7 +9,7 @@ categories: [book]
 
 ## Victoria University Press
 
-## Kerrin P. Sharpe 
+## by Kerrin P. Sharpe 
 
 In her third collection, Kerrin P. Sharpe writes about trespass and return, the homelessness of flight, and anatomies both human and object. Her poems take the form of oblique, sometimes tragic, always powerful vignettes.
 

@@ -9,7 +9,7 @@ categories: [book]
 
 ## Te Papa Press
 
-## Bronwyn Labrum 
+## by Bronwyn Labrum 
 
 Real Modern tells a vibrant and varied story of real life in 1950s and 1960s New Zealand. It is a rich compendium of the things that New Zealanders acquired and desired, that they used at school, work or play, and that they wore and saw around the country. 
 

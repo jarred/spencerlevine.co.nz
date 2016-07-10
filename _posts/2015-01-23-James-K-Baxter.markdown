@@ -14,7 +14,8 @@ categories: [book]
 This four-volume set contains over a million words, in the form of reviews, essays, lectures, journal articles, drafts and rough notes, meditations, fables, stories, a short novel, interviews, letters to the editor, correspondence with friends and critics, and diary entries, covering Baxter’s entire career.
 
 > # specifications
-> Box set - CMYK w/ 2 foils quarterbind
+> Box set - CMYK
+> 4 volumes 2 colour quarterbound w/ foil
 {: .specifications}
 
 ![](/images/JKB/JKB-1.jpg)

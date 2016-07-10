@@ -3,6 +3,7 @@ layout: project
 title: Childrens Art Activity Book
 thumb: /images/Childrens/te-papa-childrens-0.jpg
 categories: [book]
+award: true
 ---
 
 # Childrens Art Activity Book
@@ -17,8 +18,7 @@ Forget old-fashioned colouring books! Let the world of New Zealand art unleash c
 
 > # awards
 > 2014 MAPDA awards  
-> Childrens book 
-> Winner  
+> Childrens book winner  
 > . 
 
 ![](/images/Childrens/te-papa-childrens-1.jpg)

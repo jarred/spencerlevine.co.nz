@@ -9,7 +9,7 @@ categories: [book]
 
 ## Escalator Press
 
-## Rudy Castañeda López
+## by Rudy Castañeda López
 
 Fifteen-year-old Jackson Ryder has always loved art, but in the wake of his mother’s death, he must choose between his passion and his grieving father’s approval. Pulled from his New York home and thrust into the melting pot that is San Sebastiano, California in the 1960s, Jackson finds himself embroiled in an era of assassination, an emerging art scene, the Civil Rights Movement and The Beatles. As he learns how to deal with life, death and a new found interest in girls, drawing is the only thing stopping his world from spinning out of control.
 

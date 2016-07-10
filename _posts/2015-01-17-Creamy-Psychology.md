@@ -3,6 +3,7 @@ layout: project
 title: Creamy Psychology
 thumb: /images/Creamy-Psychology/YT-0.jpg
 categories: [book]
+award: true
 ---
 
 # Creamy Psychology, Yvonne Todd
@@ -18,14 +19,12 @@ Creamy Psychology surveys Yvonne Todd’s work, from her earliest work in the la
 {: .specifications}
 
 > # awards
-> 2015 PANZ Book awards  
-> Best Illustrated Book  
+> 2015 PANZ Book awards   
 > Highly Commended  
-> . 
+> .  
 > 2015 New Zealand Photo Book awards  
-> Trade Published  
-> Highly Commended 
-> . 
+> Highly Commended
+> .
 > 2015 Best awards  
 > Editorial and Books  
 > Finalist 

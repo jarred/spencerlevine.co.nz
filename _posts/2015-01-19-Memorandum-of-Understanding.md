@@ -9,13 +9,13 @@ categories: [book]
 
 ## Victoria University Press
 
-##  Bill Nelson
+##  by Bill Nelson
 
 In his debut poetry collection Bill Nelson steps into John Coltrane’s body and wears it around. He is a turtle disappearing into the sea.  
 
 > # specifications
-> CMYK cover 
+> CMYK cover
 {: .specifications}
 
-![](/images/Memo/MOS-1)
-![](/images/Memo/MOS-2)
+![](/images/Memo/MOS-1.jpg)
+![](/images/Memo/MOS-2.jpg)

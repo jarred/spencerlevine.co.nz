@@ -3,6 +3,7 @@ layout: project
 title: The Families
 thumb: /images/The-Families/TF-0.jpg
 categories: [book]
+award: true
 ---
 
 # The Families
@@ -22,7 +23,7 @@ O’Sullivan’s stories exhibit a shrewd understanding that pierces to the hear
 > 2015 PANZ Book awards  
 > Best Non-Illustrated Book  
 > Highly Commended  
-> . 
+> 
 
 ![](/images/The-Families/TF-01.jpg)
 ![](/images/The-Families/TF-02.jpg)
