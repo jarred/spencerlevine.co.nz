@@ -19,12 +19,11 @@ What’s in an annual? Everything. Annual contains all-new material from some of
 {: .specifications}
 
 > # awards
-> 2017 PANZ Book awards   
+> 2017 PANZ Book awards  
 > Best Children’s Book Finalist  
 > Best Typography Finalist  
 > Best Cover Finalist  
-{:.awards}  
-
+{: .awards}
 
 ![](/images/Gecko-Annual/GA-1.jpg)
 ![](/images/Gecko-Annual/GA-2.jpg)
