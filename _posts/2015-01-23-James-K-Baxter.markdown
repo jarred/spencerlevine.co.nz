@@ -3,6 +3,7 @@ layout: project
 title: "James K. Baxter: Complete Prose"
 thumb: /images/JKB/JKB-0.jpg
 categories: [book]
+award: true
 ---
 
 # James K. Baxter: Complete Prose
@@ -17,6 +18,13 @@ This four-volume set contains over a million words, in the form of reviews, essa
 > Box set - CMYK
 > 4 volumes 2 colour quarterbound w/ foil
 {: .specifications}
+
+> # awards
+> 2016 PANZ Book awards   
+> Best Book Winner  
+> Non Illustrated Book Winner
+{: .awards}
+
 
 ![](/images/JKB/JKB-1.jpg)
 ![](/images/JKB/JKB-2.jpg)
