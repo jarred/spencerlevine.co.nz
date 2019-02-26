@@ -17,6 +17,11 @@ Real Modern tells a vibrant and varied story of real life in 1950s and 1960s New
 > CMYK w/ uv overgloss cover, CMYK interior 432 pages
 {: .specifications}
 
+> # awards  
+> 2017 PANZ Book awards   
+> Best Illustrated Book Finalist  
+{: .awards}
+
 ![](/images/Real-Modern/RM-1.jpg)
 ![](/images/Real-Modern/RM-2.jpg)
 ![](/images/Real-Modern/RM-3.jpg)
