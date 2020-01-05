@@ -14,9 +14,8 @@ categories: [book]
 For over three decades, Elizabeth Thomson’s art has engaged with issues to do with science, imagination, culture and, increasingly, what it means to live in the South Pacific region in the 21st century. Cellular Memory presents some of the most seductive and lyrical, yet often perplexing, works produced in New Zealand during that period.
 
 > # specifications
->
 > CYMK w/ felt cover, 80 pages
-> {: .specifications}
+{: .specifications}
 
 ![](/images/Elizabeth/ET-1.jpg)
 ![](/images/Elizabeth/ET-2.jpg)
