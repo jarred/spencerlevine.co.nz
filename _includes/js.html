@@ -1,39 +1,17 @@
 <script type="text/javascript" src="/assets/js/libs.js"></script>
 <script type="text/javascript" src="/assets/js/app.js"></script>
 <script type="text/javascript">
-  window.SpencerLevine.App.init();
+
+	window.SpencerLevine.App.init();
 
   var _gaq = _gaq || [];
-  _gaq.push(["_setAccount", "UA-21101684-2"]);
-  _gaq.push(["_trackPageview"]);
+  _gaq.push(['_setAccount', 'UA-21101684-2']);
+  _gaq.push(['_trackPageview']);
 
   (function() {
-    var ga = document.createElement("script");
-    ga.type = "text/javascript";
-    ga.async = true;
-    ga.src =
-      ("https:" == document.location.protocol ? "https://ssl" : "http://www") +
-      ".google-analytics.com/ga.js";
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(ga, s);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>
 
-<!-- Fathom - simple website analytics - https://usefathom.com -->
-<script>
-  (function(f, a, t, h, o, m) {
-    a[h] =
-      a[h] ||
-      function() {
-        (a[h].q = a[h].q || []).push(arguments);
-      };
-    (o = f.createElement("script")), (m = f.getElementsByTagName("script")[0]);
-    o.async = 1;
-    o.src = t;
-    o.id = "fathom-script";
-    m.parentNode.insertBefore(o, m);
-  })(document, window, "https://cdn.usefathom.com/tracker.js", "fathom");
-  fathom("set", "siteId", "CLQAARMQ");
-  fathom("trackPageview");
 </script>
-<!-- / Fathom -->
