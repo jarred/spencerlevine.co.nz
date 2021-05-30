@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Terminal
-thumb: /images/Terminal/Terminal-0.jpg
+thumb: /images/Terminal/terminal-0.jpg
 categories: [book]
 ---
 
