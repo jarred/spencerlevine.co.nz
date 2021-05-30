@@ -14,9 +14,8 @@ categories: [book]
 ‘Lateral Theories’ presents the heavenly bodies known as ‘exoplanets’ as territories of Thomson’s own experience and responsiveness. Constructed from fibreglass and resin, overlaid with vinyl and lacquer, the works take us into territories of disorientation and wonderment.
 
 > # specifications
->
 > CYMK w/ emboss cover, 40 pages
-> {: .specifications}
+{: .specifications}
 
 ![](/images/ET-LATERAL/ET-LATERAL-1.jpg)
 ![](/images/ET-LATERAL/ET-LATERAL-2.jpg)

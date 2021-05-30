@@ -15,7 +15,7 @@ Terminal is an exhibition of international art made about the airport, not for i
 
 > # specifications
 > CMYK throughout, 96 pages
-{: .specifications\}
+{: .specifications}
 
 ![](/images/Terminal/terminal-1.jpg)
 ![](/images/Terminal/terminal-2.jpg)
