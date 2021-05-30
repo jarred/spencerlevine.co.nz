@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Elizabeth Thomson: Lateral Theories
+title: "Elizabeth Thomson: Lateral Theories"
 thumb: /images/ET-LATERAL/ET-LATERAL-0.jpg
 categories: [book]
 ---
