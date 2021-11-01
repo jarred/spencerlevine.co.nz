@@ -20,4 +20,4 @@ Interactives by Satellite
 ![](/images/AWMM-PK/AWMM-PK-4.jpg)
 ![](/images/AWMM-PK/AWMM-PK-5.jpg)
 ![](/images/AWMM-PK/AWMM-PK-6.jpg)
-![](/images/AWMM-PK/AWMM-PK-7.jpg)
+![](/images/AWMM-PK/AWMM-PK-07.jpg)
