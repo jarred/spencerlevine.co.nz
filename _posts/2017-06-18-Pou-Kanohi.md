@@ -14,10 +14,10 @@ Pou Kanohi is the Museum’s first dedicated war memorial space aimed at educati
 Spatial design by Pearson and Associates  
 Interactives by Satellite
 
-![](/images/AWMM-PK/AWMM-PK-1.jpg)
-![](/images/AWMM-PK/AWMM-PK-2.jpg)
-![](/images/AWMM-PK/AWMM-PK-3.jpg)
-![](/images/AWMM-PK/AWMM-PK-4.jpg)
-![](/images/AWMM-PK/AWMM-PK-5.jpg)
-![](/images/AWMM-PK/AWMM-PK-6.jpg)
+![](/images/AWMM-PK/AWMM-PK-01.jpg)
+![](/images/AWMM-PK/AWMM-PK-02.jpg)
+![](/images/AWMM-PK/AWMM-PK-03.jpg)
+![](/images/AWMM-PK/AWMM-PK-04.jpg)
+![](/images/AWMM-PK/AWMM-PK-05.jpg)
+![](/images/AWMM-PK/AWMM-PK-06.jpg)
 ![](/images/AWMM-PK/AWMM-PK-07.jpg)
