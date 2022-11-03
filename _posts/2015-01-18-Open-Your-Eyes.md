@@ -3,6 +3,7 @@ layout: project
 title: Open Your Eyes, Jackson Ryder
 thumb: /images/Open-Your-Eyes/JR-0.jpg
 categories: [book]
+published: false
 ---
 
 # Open Your Eyes, Jackson Ryder
